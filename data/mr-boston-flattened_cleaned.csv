@@ -1,0 +1,991 @@
+name,category,measurement-1,ingredient-1,measurement-2,ingredient-2,measurement-3,ingredient-3,measurement-4,ingredient-4,measurement-5,ingredient-5,measurement-6,ingredient-6,glass
+gauguin,cocktail classics,2 oz,light rum,1 oz,passion fruit syrup,1 oz,lemon juice,1 oz,lime juice,,,,,old-fashioned glass
+fort lauderdale,cocktail classics,1 1/2 oz,light rum,1/2 oz,sweet vermouth,1/4 oz,juice of orange,1/4 oz,juice of a lime,,,,,old-fashioned glass
+apple pie,cordials and liqueurs,3 oz,apple schnapps,1 oz,cinnamon schnapps,,apple slice,,,,,,,old-fashioned glass
+cuban cocktail no. 1,cocktail classics,1/2 oz,juice of a lime,1/2 oz,powdered sugar,2 oz,light rum,,,,,,,cocktail glass
+cool carlos,cocktail classics,1 1/2 oz,dark rum,2 oz,cranberry juice,2 oz,pineapple juice,1 oz,orange curacao,1 oz,sour mix,,,collins glass
+john collins,whiskies,2 oz,bourbon whiskey,1 oz,fresh lemon juice,1/2 oz,simple syrup,1 oz,soda water,1 oz,"orange and lemon wheels, maraschino cherry",,,collins glass
+cherry rum,cocktail classics,1 1/4 oz,light rum,1 1/2 oz,cherry-flavored brandy,1 oz,light cream,,,,,,,cocktail glass
+casa blanca,cocktail classics,2 oz,light rum,1 1/2 oz,lime juice,1 1/2 oz,triple sec,1 1/2 oz,maraschino,,,,,cocktail glass
+caribbean champagne,cocktail classics,1/2 oz,light rum,1/2 oz,creme de banana,,chilled champagne,,,,,,,champagne flute
+amber amour,cordials and liqueurs,1 1/2 oz,amaretto,1/4 oz,fresh lemon juice,1/4 oz,simple syrup,,soda water,maraschino cherry,,,,collins glass
+the joe lewis,whiskies,1 1/2 oz,scotch whiskey,1 oz,fresh carrot juice,3/4 oz,tawny port,1/2 oz,fresh lemon juice,1 oz,agave nectar,,,cocktail glass
+bacardi cocktail,cocktail classics,1 1/2 oz,bacardi rum,1/2 oz,juice of a lime,1/2 oz,grenadine,,,,,,,cocktail glass
+apple pie no. 1,cocktail classics,3/4 oz,light rum,3/4 oz,sweet vermouth,1 oz,apple brandy,1/2 oz,grenadine,1 oz,lemon juice,,,cocktail glass
+yolanda,cocktail classics,1/2 oz,brandy,1/2 oz,gin,1/2 oz,anisette,1 oz,sweet vermouth,1 oz,grenadine,,,cocktail glass
+yellow rattler,cocktail classics,1 oz,gin,1 oz,orange juice,1/2 oz,dry vermouth,1/2 oz,sweet vermouth,,,,,cocktail glass
+why not?,cocktail classics,1 oz,gin,1 oz,apricot flavored brandy,1/2 oz,dry vermouth,1 oz,lemon juice,,,,,cocktail glass
+amaretto stinger,cordials and liqueurs,1 1/2 oz,amaretto,3/4 oz,white creme de menthe,,,,,,,,,cocktail glass
+what the hell,cocktail classics,1 oz,gin,1 oz,dry vermouth,1 oz,apricot flavored brandy,1 oz,lemon juice,,,,,old-fashioned glass
+webster cocktail,cocktail classics,1/2 oz,juice of a lime,1 1/2 oz,apricot flavored brandy,1/2 oz,dry vermouth,1 oz,gin,,,,,cocktail glass
+union jack cocktail,cocktail classics,3/4 oz,sloe gin,1 1/2 oz,gin,1/2 oz,grenadine,,,,,,,cocktail glass
+jocose julep,whiskies,2 1/2 oz,bourbon whiskey,1/2 oz,green creme de menthe,1 oz,fresh lime juice,1/2 oz,simple syrup,5 oz,fresh mint leaves,,soda water,collins glass
+trinity cocktail,cocktail classics,3/4 oz,sweet vermouth,3/4 oz,dry vermouth,3/4 oz,gin,,,,,,,cocktail glass
+three stripes cocktail,cocktail classics,1 oz,gin,1/2 oz,dry vermouth,1 oz,orange juice,,,,,,,cocktail glass
+tanq-a-rita,cocktail classics,1 1/2 oz,tanqueray gin,3 oz,margarita mix,1 oz,triple sec,,,,,,,cocktail glass
+amaretto sour,cordials and liqueurs,1 1/2 oz,amaretto,3/4 oz,fresh lemon juice,1/2 oz,simple syrup,1,orange half-wheel,,,,,cordial or pony glass
+tailspin cocktail,cocktail classics,3/4 oz,gin,3/4 oz,sweet vermouth,3/4 oz,green chartreuse,1 oz,orange bitters,,,,,cocktail glass
+sweet patootie cocktail,cocktail classics,1 oz,gin,1/2 oz,triple sec,1 oz,orange juice,,,,,,,cocktail glass
+sunshine cocktail,cocktail classics,3/4 oz,sweet vermouth,1 1/2 oz,gin,1 oz,bitters,,,,,,,cocktail glass
+spring feeling cocktail,cocktail classics,1 oz,lemon juice,1/2 oz,green chartreuse,1 oz,gin,,,,,,,cocktail glass
+sphinx cocktail,cocktail classics,1 1/2 oz,gin,1 1/2 oz,sweet vermouth,1 1/2 oz,dry vermouth,,,,,,,cocktail glass
+jitterbug sour,whiskies,2 oz,straight rye whiskey,1/2 oz,benedictine,3/4 oz,fresh lemon juice,1/2 oz,honey syrup,1 oz,egg white,1 dash,angostura bitters,cocktail glass
+southern gin cocktail,cocktail classics,2 oz,gin,2 oz,orange bitters,1/2 oz,triple sec,,,,,,,cocktail glass
+society cocktail,cocktail classics,1 1/2 oz,gin,3/4 oz,dry vermouth,1/4 oz,grenadine,,,,,,,cocktail glass
+snyder,cocktail classics,1 1/2 oz,gin,1/2 oz,dry vermouth,1/2 oz,triple sec,,,,,,,cocktail glass
+smiler cocktail,cocktail classics,1/2 oz,sweet vermouth,1/2 oz,dry vermouth,1 oz,gin,1 oz,bitters,1/4 oz,orange juice,,,cocktail glass
+smile cocktail,cocktail classics,1 oz,grenadine,1 oz,gin,1/2 oz,lemon juice,,,,,,,cocktail glass
+amaretto rose,cordials and liqueurs,1 1/2 oz,amaretto,1/2 oz,fresh lemon juice,1/2 oz,simple syrup,,soda water,,,,,collins glass
+sand-martin cocktail,cocktail classics,1 oz,green chartreuse,1 1/2 oz,sweet vermouth,1 1/2 oz,gin,,,,,,,cocktail glass
+irish whiskey highball,whiskies,2 oz,irish whiskey,1 oz,ginger ale or soda water,1 oz,lemon twist (optional),,,,,,,highball glass
+japanese,brandy,2 oz,brandy,1/2 oz,orgeat or almond syrup,2 oz,angostura bitters,,lemon twist,,,,,cocktail glass
+roselyn cocktail,cocktail classics,3/4 oz,dry vermouth,1 1/2 oz,gin,1/2 oz,grenadine,,,,,,,cocktail glass
+resolute cocktail,cocktail classics,1/4 oz,juice of a lemon,1/2 oz,apricot flavored brandy,1 oz,gin,,,,,,,cocktail glass
+racquet club cocktail,cocktail classics,1 1/2 oz,gin,3/4 oz,dry vermouth,1 oz,orange bitters,,,,,,,cocktail glass
+amaretto and cream,cordials and liqueurs,1 1/2 oz,amaretto,1 1/2 oz,half-and-half,,,,,,,,,cocktail glass
+pollyanna cocktai,cocktail classics,3 oz,orange,3 oz,pineapple,2 oz,gin,1/2 oz,sweet vermouth,1/2 oz,grenadine,,,cocktail glass
+plaza cocktail,cocktail classics,3/4 oz,sweet vermouth,3/4 oz,dry vermouth,3/4 oz,gin,,,,,,,cocktail glass
+irish whiskey cocktail,whiskies,2 oz,irish whiskey,1/2 oz,triple sec,1/2 oz,anisette,1/4 oz,maraschino liqueur,1 oz,angostura bitters,1,green olive,cocktail glass
+absinthe special cocktail,cordials and liqueurs,1 1/2 oz,absinthe,1/4 oz,simple syrup,1 oz,orange bitters,,,,,,,cocktail glass
+nineteenth hole,cocktail classics,1 1/2 oz,gin,1 oz,dry vermouth,1 oz,sweet vermouth,1 oz,bitters,,,,,cocktail glass
+montreal club bouncer,cocktail classics,1 1/2 oz,gin,1/2 oz,anisette,,,,,,,,,old-fashioned glass
+monte carlo imperial highball,cocktail classics,2 oz,gin,1/2 oz,white creme de menthe,1/4 oz,juice of a lemon,,chilled champagne,,,,,highball glass
+irish shillelagh,whiskies,1 1/2 oz,irish whiskey,1 oz,light rum,1/2 oz,sloe gin,1 oz,fresh lemon juice,1/2 oz,simple syrup,1,"fresh raspberries and strawberries, 2 peach slices, maraschino cherry",irish coffee glass
+melon cocktail,cocktail classics,2 oz,gin,1/4 oz,lemon juice,1/4 oz,maraschino,,,,,,,cocktail glass
+martini (medium),cocktail classics,1 1/2 oz,gin,1/2 oz,dry vermouth,1/2 oz,sweet vermouth,,,,,,,
+martini (dry) (5-to-1),cocktail classics,1 2/3 oz,gin,1/3 oz,dry vermouth,,,,,,,,,
+mamie's sister,cocktail classics,1 oz,juice of a lime,2 oz,gin,,ginger ale,,,,,,,collins glass
+irish rickey,whiskies,1 1/2 oz,irish whiskey,1/2 oz,fresh lime juice,1 oz,soda water,1 oz,lime wedge,,,,,highball glass
+maiden's prayer,cocktail classics,1 1/2 oz,gin,1/2 oz,triple sec,1 oz,lemon juice,,,,,,,cocktail glass
+lone tree cocktail,cocktail classics,3/4 oz,sweet vermouth,1 1/2 oz,gin,,,,,,,,,cocktail glass
+london buck,cocktail classics,2 oz,gin,1/2 oz,juice of a lemon,,ginger ale,,,,,,,highball glass
+leap frog highball,cocktail classics,1/2 oz,juice of a lemon,2 oz,gin,,ginger ale,,,,,,,highball glass
+incider cocktail,whiskies,1 1/2 oz,rye or bourbon whiskey,4 oz,apple cider,1 oz,apple slice,,,,,,,old-fashioned glass
+kup's indispensable cocktail,cocktail classics,1/2 oz,light vermouth,1/2 oz,dry vermouth,1 1/2 oz,gin,1 oz,bitters,,,,,cocktail glass
+knock-out cocktail,cocktail classics,1/2 oz,anisette,3/4 oz,gin,3/4 oz,dry vermouth,1 oz,creme de menthe (white),,,,,cocktail glass
+k. g. b. cocktail,cocktail classics,1/2 oz,kummel,1 1/2 oz,gin,1/4 oz,apricot flavored brandy,1/4 oz,lemon juice,,,,,cocktail glass
+imperial fizz,whiskies,1 1/2 oz,bourbon or rye whiskey,1/2 oz,light rum,1 oz,fresh lemon juice,1/2 oz,simple syrup,1 oz,soda water,,,highball glass
+jeyplak cocktail,cocktail classics,1 1/2 oz,gin,3/4 oz,sweet vermouth,1/4 oz,anisette,,,,,,,cocktail glass
+h. p. w. cocktail,cocktail classics,1 1/2 oz,dry vermouth,1 1/2 oz,sweet vermouth,1 1/2 oz,gin,,,,,,,cocktail glass
+i.a.p.,whiskies,2 oz,tennessee whiskey,1/4 oz,fernet-branca,3 oz,cola,,,,,,,collins glass
+hotel plaza cocktail,cocktail classics,3/4 oz,sweet vermouth,3/4 oz,dry vermouth,3/4 oz,gin,,,,,,,cocktail glass
+hoffman house cocktail,cocktail classics,3/4 oz,dry vermouth,1 1/2 oz,gin,,,,,,,,,cocktail glass
+hawaiin cocktail,cocktail classics,2 oz,gin,1 oz,pineapple juice,1/2 oz,triple sec,,,,,,,cocktail glass
+white russian,vodka,2 oz,vodka,1 oz,coffee liqueur,,milk or half-and-half,,,,,,,old-fashioned glass
+greyhound,cocktail classics,1 1/2 oz,gin,5 oz,grapefruit juice,,,,,,,,,highball glass
+green devil,cocktail classics,1 1/2 oz,gin,1 1/2 oz,green creme de menthe,1 oz,lime juice,,,,,,,old-fashioned glass
+greenback,cocktail classics,1 1/2 oz,gin,1 oz,green creme de menthe,1 oz,lemon juice,,,,,,,old-fashioned glass
+grapefruit cocktail,cocktail classics,1 oz,grapefruit juice,1 oz,gin,1 oz,maraschino,,,,,,,cocktail glass
+hotel d'alsace,whiskies,1 oz,fresh rosemary sprig,2 oz,irish whiskey,1/2 oz,benedictine,1/2 oz,triple sec,,,,,old-fashioned glass
+jamaica granito,brandy,1 1/2 oz,brandy,1 oz,triple sec,1 oz,lemon or orange sherbet,soda water,,freshly grated nutmeg,,,,collins glass
+gin sling,cocktail classics,1 oz,powdered sugar,1 oz,water,1/2 oz,juice of a lemon,2 oz,gin,,,,,old-fashioned glass
+gin milk punch,cocktail classics,1 oz,powdered sugar,2 oz,gin,1 oz,milk,,,,,,,collins glass
+horse's neck (with a kick),whiskies,1 oz,wide spiral of lemon zest,2 oz,bourbon whiskey,1 oz,ginger ale,,,,,,,collins glass
+gin and it,cocktail classics,2 oz,gin,1 oz,sweet vermouth,,,,,,,,,cocktail glass
+gin cocktail,cocktail classics,2 oz,gin,2 oz,bitters,,,,,,,,,cocktail glass
+west side,vodka,1 1/2 oz,lemon-flavored vodka,3/4 oz,fresh lemon juice,1/2 oz,simple syrup,6,fresh mint leaves,soda water,,,,cocktail glass
+gimlet,cocktail classics,1 oz,lime juice,1 oz,powdered sugar,1 1/2 oz,gin,,,,,,,cocktail glass
+free silver,cocktail classics,1/4 oz,juice of a lemon,1/2 oz,powdered sugar,1 1/2 oz,gin,1/2 oz,dark rum,1 oz,milk,,club soda,collins glass
+frankenjack cocktail,cocktail classics,1 oz,gin,3/4 oz,dry vermouth,1/2 oz,apricot flavored brandy,1 oz,triple sec,1/2 oz,juice of a lime,1 1/2 oz,gin & ginger ale,cocktail glass
+fog horn,cocktail classics,1/2 oz,juice of a lime,1 1/2 oz,gin & ginger ale,2 oz,gin,1 oz,triple sec,,,,,highball glass
+flying dutchman,cocktail classics,2 oz,gin,1 oz,triple sec,,,,,,,,,old-fashioned glass
+hoot mon cocktail,whiskies,1 1/2 oz,blended scotch whiskey,3/4 oz,sweet vermouth,1 oz,benedictine,,lemon twist,,,,,cocktail glass
+fifty-fifty cocktail,cocktail classics,1 1/2 oz,gin,1 1/2 oz,dry vermouth,,,,,,,,,cocktail glass
+favorite cocktail,cocktail classics,3/4 oz,apricot flavored brandy,3/4 oz,dry vermouth,3/4 oz,gin,1/4 oz,lemon juice,,,,,cocktail glass
+farmer's cocktail,cocktail classics,1 oz,gin,1/2 oz,dry vermouth,1/2 oz,sweet vermouth,2 oz,bitters,,,,,cocktail glass
+warsaw cocktail,vodka,1 1/2 oz,vodka,1/2 oz,blackberry-flavored brandy,1/2 oz,dry vermouth,1 oz,fresh lemon juice,,,,,cocktail glass
+emerald isle cocktail,cocktail classics,2 oz,gin,1 oz,green creme de menthe,3 oz,bitters,,,,,,,cocktail glass
+du barry cocktail,cocktail classics,1 oz,bitters,3/4 oz,dry vermouth,1/2 oz,anisette,1 1/2 oz,gin,,,,,cocktail glass
+dry martini (5-to-1),cocktail classics,1 2/3 oz,gin,1/3 oz,dry vermouth,,,,,,,,,cocktail glass
+dixie cocktail,cocktail classics,1/4 oz,juice of orange,1 oz,anisette,1/2 oz,dry vermouth,1 oz,gin,,,,,cocktail glass
+delmonico no. 2,cocktail classics,1 oz,orange bitters,1 oz,dry vermouth,1 1/2 oz,gin,,,,,,,cocktail glass
+hole-in-one,whiskies,1 3/4 oz,blended scotch whiskey,3/4 oz,dry vermouth,1/4 oz,fresh lemon juice,1 oz,orange bitters,,,,,cocktail glass
+vodka stinger,vodka,1 oz,vodka,1 oz,white creme de menthe,,,,,,,,,cocktail glass
+caruso,cocktail classics,1 1/2 oz,gin,1 oz,dry vermouth,1/2 oz,green creme de menthe,,,,,,,cocktail glass
+bulldog highball,cocktail classics,1/2 oz,juice of orange,2 oz,gin,,ginger ale,,,,,,,highball glass
+brown cocktail,cocktail classics,3/4 oz,gin,3/4 oz,light rum,3/4 oz,dry vermouth,,,,,,,cocktail glass
+bronx terrace cocktail,cocktail classics,1 1/2 oz,gin,1 1/2 oz,dry vermouth,1/2 oz,juice of a lime,,,,,,,cocktail glass
+bronx cocktail (dry),cocktail classics,1 oz,gin,1 oz,dry vermouth,1/4 oz,juice of orange,,,,,,,cocktail glass
+hill dog,whiskies,1 1/2 oz,white whiskey,1/2 oz,grand marnier,1/2 oz,dry sherry,1/2 oz,lavender syrup,orange twist,,,,cocktail glass
+blue devil cocktail,cocktail classics,1 oz,gin,1/2 or 1,juice of lemon or lime,1 oz,maraschino,1/2 oz,blue curacao,,,,,cocktail glass
+blue canary,cocktail classics,3/4 oz,gin,3 oz,grapefruit juice,1 oz,blue curacao,,,,,,,cocktail glass
+blue bird,cocktail classics,1 1/2 oz,gin,1/2 oz,triple sec,1 oz,bitters,,,,,,,cocktail glass
+bloodhound cocktail,cocktail classics,1/2 oz,dry vermouth,1/2 oz,sweet vermouth,1 oz,gin,,,,,,,cocktail glass
+billy taylor,cocktail classics,1/2 oz,juice of a lime,2 oz,gin,,club soda,,,,,,,collins glass
+bijou cocktail,cocktail classics,3/4 oz,gin,3/4 oz,green chartreuse,3/4 oz,sweet vermouth,1 oz,orange bitters,,,,,cocktail glass
+bermuda rose,cocktail classics,1 1/4 oz,gin,1 1/2 oz,apricot flavored brandy,1 1/2 oz,grenadine,,,,,,,cocktail glass
+vodka sour,vodka,2 oz,vodka,2 oz,vodka,3/4 oz,fresh lemon juice,3/4 oz,simple syrup,"lemon half-wheel, maraschino cherry",,,,cocktail glass
+apricot anisette collins,cocktail classics,1 1/2 oz,gin,1/2 oz,apricot flavored brandy,1 1/2 oz,anisette,1 oz,lemon juice,club soda,,,,collins glass
+alexander's sister cocktail,cocktail classics,1 oz,dry gin,1 oz,green creme de menthe,1 oz,light cream,,,,,,,cocktail glass
+highland cooler,whiskies,2 oz,blended scotch whiskey,1/2 oz,simple syrup,,soda water or ginger ale,,lemon and/or orange zest spiral(s),,,,,collins glass
+alexander cocktail no. 1,cocktail classics,1 oz,gin,1 oz,creme de cacao (white),1 oz,light cream,,,,,,,cocktail glass
+adam and eve,cocktail classics,1 oz,forbidden fruit,1 oz,gin,1 oz,brandy,1 oz,lemon juice,,,,,cocktail glass
+vodka sling,vodka,2 oz,vodka,1 oz,fresh lemon juice,1/2 oz,simple syrup,,orange twist,,,,,old-fashioned glass
+jack rose cocktail,brandy,1 1/2 oz,applejack,1/2 oz,fresh lime juice,1/4 oz,grenadine,,,,,,,cocktail glass
+tempter cocktail,cocktail classics,1 oz,port,1 oz,apricot flavored brandy,,,,,,,,,cocktail glass
+special rough cocktail,cocktail classics,1 1/2 oz,apple brandy,1 1/2 oz,brandy,1/2 oz,anisette,,,,,,,cocktail glass
+vodka grasshopper,vodka,3/4 oz,vodka,3/4 oz,green creme de menthe,3/4 oz,white creme de cacao,3/4 oz,half-and-half,,,,,cocktail glass
+singapore sling,cocktail classics,1/2 oz,juice of a lemon,1 oz,powdered sugar,2 oz,gin,,club soda,1/2 oz,cherry-flavored brandy,,,collins glass
+saratoga cocktail,cocktail classics,2 oz,brandy,2 oz,bitters,1 oz,lemon juice,1 oz,pineapple juice,1/2 oz,maraschino,,,cocktail glass
+high cotton,whiskies,2 oz,straight rye whiskey,1/2 oz,pimm's no. 1 cup,1/2 oz,dubonnet rouge,2 oz,peach bitters,"lemon twist, fresh mint sprig",,,,cocktail glass
+polonaise,cocktail classics,1 1/2 oz,brandy,1 oz,blackberry-flavored brandy,1/2 oz,dry sherry,1 oz,lemon juice,,,,,old-fashioned glass
+vodka gimlet,vodka,1 1/2 oz,vodka,1 oz,fresh lime juice,1/2 oz,simple syrup,,,,,,,cocktail glass
+merry widow cocktail no. 2,cocktail classics,1 1/4 oz,maraschino,1 1/4 oz,cherry-flavored brandy,,,,,,,,,cocktail glass
+lugger,cocktail classics,1 oz,brandy,1 oz,apple brandy,1 oz,apricot flavored brandy,,,,,,,cocktail glass
+jamaica hop,cocktail classics,1 oz,coffee-flavored brandy,1 oz,creme de cacao (white),1 oz,light cream,,,,,,,cocktail glass
+hebrides,whiskies,1 1/2 oz,single-malt scotch whisky,1/2 oz,maraschino liqueur,1/2 oz,triple sec,2 oz,apple juice,1/2 oz,fresh lemon juice,1 oz,angostura bitters,collins glass
+hennessy martini,cocktail classics,2 oz,hennessy v.s cognac,1/2 oz,lemon juice,,,,,,,,,cocktail glass
+vodka daisy,vodka,2 oz,vodka,1 oz,fresh lemon juice,1/2 oz,simple syrup,1 oz,grenadine,fresh seasonal fruit,,,,beer mug
+heavenly dram,whiskies,2 oz,single-malt scotch whisky,1/2 oz,pedro ximenez sherry,3/4 oz,fresh lemon juice,1/4 oz,honey syrup,lemon twist,,,,cocktail glass
+classic cocktail,cocktail classics,1/4 oz,juice of a lemon,1 1/2 oz,curacao,1 1/2 oz,maraschino,1 oz,brandy,,,,,old-fashioned glass
+cherry sling,cocktail classics,2 oz,cherry-flavored brandy,1/2 oz,juice of a lemon,,,,,,,,,old-fashioned glass
+cherry fizz,cocktail classics,1/2 oz,juice of a lemon,2 oz,cherry-flavored brandy,,club soda,,,,,,,highball glass
+vodka cooler,vodka,2 oz,vodka,1/2 oz,simple syrup,,soda water or ginger ale,,orange and/or lemon zest spiral,,,,,collins glass
+carrol cocktail,cocktail classics,1 1/2 oz,brandy,3/4 oz,sweet vermouth,,,,,,,,,cocktail glass
+button hook cocktail,cocktail classics,1/2 oz,creme de menthe (white),1/2 oz,apricot flavored brandy,1/2 oz,anisette,1/2 oz,brandy,,,,,cocktail glass
+bull's eye,cocktail classics,1 oz,brandy,2 oz,hard cider,ginger ale,,,,,,,,highball glass
+brantini,cocktail classics,1 1/2 oz,brandy,1 oz,gin,1 oz,dry vermouth,,,,,,,old-fashioned glass
+heather's kiss,whiskies,2 1/4 oz,blended scotch whiskey,1/2 oz,fresh lemon juice,1/4 oz,agave nectar,1 oz,absinthe,apple slice,,,,cocktail glass
+brandy squirt,cocktail classics,1 1/2 oz,brandy,1 oz,powdered sugar,1 oz,grenadine,,club soda,,,,,highball glass
+brandy and soda,cocktail classics,2 oz,brandy,,club soda,,,,,,,,,collins glass
+brandy milk punch,cocktail classics,1 oz,powdered sugar,2 oz,brandy,1 oz,milk,,,,,,,collins glass
+vodka collins,vodka,2 oz,vodka,3/4 oz,fresh lemon juice,3/4 oz,simple syrup,,soda water,"lemon and orange wheels, maraschino cherry",,,,collins glass
+brandy crusta cocktail,cocktail classics,1 oz,maraschino,1 oz,bitters,1 oz,lemon juice,1/2 oz,triple sec,2 oz,brandy,,,cocktail glass
+heather blush,whiskies,1 oz,blended scotch whiskey,1 oz,strawberry liqueur,3 oz,chilled sparkling wine,,whole strawberry,,,,,champagne flute
+jack maples,brandy,2 oz,applejack,1 oz,maple syrup (grade b or medium-amber),1 oz,aromatic bitters,,cinnamon stick,,,,,cocktail glass
+brandy alexander,cocktail classics,1/2 oz,creme de cacao (brown),1/2 oz,brandy,1/2 oz,heavy cream,,,,,,,cocktail glass
+vodka and tonic,vodka,2 oz,vodka,,tonic water,,lemon or lime wedge,,,,,,,highball glass
+apricot cocktail,cocktail classics,1/4 oz,juice of a lemon,1/4 oz,juice of orange,1 1/2 oz,apricot flavored brandy,1 oz,gin,,,,,cocktail glass
+alexander cocktail no. 2,cocktail classics,1 oz,creme de cacao (white),1 oz,brandy,1 oz,light cream,,,,,,,cocktail glass
+after dinner cocktail,cocktail classics,1 oz,apricot flavored brandy,1 oz,triple sec,1 oz,juice of a lime,,,,,,,cocktail glass
+harvest moon,whiskies,1 1/2 oz,straight rye whiskey,1 oz,lillet blanc,1/2 oz,apple brandy,1/4 oz,green chartreuse,2 oz,angostura bitters,,orange twist,cocktail glass
+red raider,cocktail classics,1 oz,bourbon,1/2 oz,triple sec,1 oz,lemon juice,1 oz,grenadine,,,,,cocktail glass
+vodka and apple juice,vodka,2 oz,vodka,,apple juice,,,,,,,,,highball glass
+mint julep (southern style),cocktail classics,5 or 6,springs mint,1 oz,powdered sugar,2 oz,water,2 1/2 oz,bourbon,,,,,collins glass
+limestone,cocktail classics,1 1/2 oz,bourbon,,collins mix,,lime juice,,,,,,,highball glass
+grounds for divorce,whiskies,1 1/2 oz,straight rye whiskey,3/4 oz,kirschwasser,1/4 oz,cynar,1/2 oz,amaro,orange twist,,,,cocktail glass
+gentleman's cocktail,cocktail classics,1 1/2 oz,bourbon,1/2 oz,brandy,1/2 oz,creme de menthe,,club soda,,,,,highball glass
+dixie julep,cocktail classics,1 oz,powdered sugar,2 1/2 oz,bourbon,,,,,,,,,collins glass
+victory collins,vodka,1 1/2 oz,vodka,2 oz,unsweetened grape juice,1 oz,fresh lemon juice,1/2 oz,simple syrup,orange half-wheel,,,,collins glass
+buddy's favorite,cocktail classics,1 1/2 oz,bourbon,6 oz,cold water,,,,,,,,,highball glass
+bourbon on the rocks,cocktail classics,2 oz,bourbon,,,,,,,,,,,old-fashioned glass
+bourbon cobbler,cocktail classics,2 1/2 oz,bourbon,1 oz,lemon juice,2 oz,grapefruit juice,1 1/2 oz,almond extract,,,,,old-fashioned glass
+bourbon and water,cocktail classics,2 oz,bourbon,4 oz,water,,,,,,,,,old-fashioned glass
+greenpoint,whiskies,2 oz,straight rye whiskey,1/2 oz,yellow chartreuse,1/2 oz,sweet vermouth,1 oz,angostura bitters,1 oz,orange bitters,,lemon twist,cocktail glass
+yellowjacket,non-alcoholic drinks,2 oz,pineapple juice,2 oz,orange juice,1/2 oz,lemon juice,,,,,,,old-fashioned glass
+velvet peach hammer,vodka,1 3/4 oz,vodka,3/4 oz,peach schnapps,1/4 oz,simple syrup,1/2 oz,fresh lemon juice,peach slice,,,,old-fashioned glass
+grandfather,whiskies,1 oz,bourbon whiskey,1 oz,applejack,1 oz,sweet vermouth,1 oz,angostura bitters,1 oz,peychaud's bitters,,maraschino cherry,cocktail glass
+goldrush,whiskies,2 oz,bourbon whiskey,3/4 oz,fresh lemon juice,1 oz,honey syrup,,,,,,,old-fashioned glass
+sake martini,cocktail classics,1 oz,sake,3 oz,mr. boston gin,,,,,,,,,cocktail glass
+godfather,whiskies,1 1/2 oz,blended scotch whiskey,3/4 oz,amaretto,,,,,,,,,old-fashioned glass
+jack-in-the-box,brandy,1 oz,applejack,1 oz,pineapple juice,1 oz,angostura bitters,,,,,,,cocktail glass
+saronno,cocktail classics,1 oz,amaretto di saronno,1 oz,mr. boston five star brandy,1 oz,light cream,,,,,,,cocktail glass
+saronno colada (nutty colada),cocktail classics,3 oz,amaretto di saronno,3 oz,coconut milk,3 oz,crushed pineapple,,,,,,,collins glass
+saronno mist,cocktail classics,1 1/2 oz,amaretto di saronno,,,,,,,,,,,old-fashioned glass
+saronno rose,cocktail classics,1 1/2 oz,amaretto di saronno,1/2 oz,roses lime juice,1 oz,club soda,,,,,,,collins glass
+gilchrist,whiskies,1 1/2 oz,blended scotch whiskey,3/4 oz,pear brandy,3/4 oz,grapefruit juice,1/2 oz,amaro,2 oz,grapefruit bitters,,lemon twist,cocktail glass
+frisco sour,whiskies,2 oz,bourbon or rye whiskey,3/4 oz,fresh lemon juice,1/2 oz,fresh lime juice,1/2 oz,benedictine,1 oz,lemon and lime wheels,,,cordial or pony glass
+fratelli cocktail,whiskies,2 oz,straight rye whiskey,1/2 oz,sweet vermouth,1/2 oz,yellow chartreuse,1/4 oz,fernet-branca,,,,,cocktail glass
+francis the mule,whiskies,2 oz,bourbon whiskey,1/2 oz,coffee liqueur,1/2 oz,fresh lemon juice,1/4 oz,orgeat or almond syrup,2 oz,orange bitters,,lemon twist,cocktail glass
+fox river cocktail,whiskies,2 oz,bourbon or rye whiskey,1/2 oz,dark creme de cacao,4 oz,angostura bitters,,,,,,,cocktail glass
+flying scotchman,whiskies,1 oz,blended scotch whiskey,1 oz,sweet vermouth,1 oz,angostura bitters,1/4 oz,simple syrup,,,,,cocktail glass
+the final ward,whiskies,3/4 oz,straight rye whiskey,3/4 oz,maraschino liqueur,3/4 oz,green chartreuse,3/4 oz,fresh lemon juice,,,,,cocktail glass
+martini,cocktail classics,1 1/2 oz,mr. boston gin,3/4 oz,dry vermouth,,,,,,,,,cocktail glass
+fancy whiskey,whiskies,2 oz,bourbon or rye whiskey,1 oz,angostura bitters,1/4 oz,triple sec,1/4 oz,simple syrup,1 oz,lemon twist,,,cocktail glass
+mandarine sour,cocktail classics,2 oz,mandarine napoleon liqueur,1 oz,lemon juice,,,,,,,,,sour glass
+mandarine mist,cocktail classics,1 1/2 oz,mandarine napoleon liqueur,,,,,,,,,,,old-fashioned glass
+underneath the mango tree,vodka,for glass,"lime wedge, sweet chili powder",1 oz,mango-flavored vodka,1/2 oz,peach liqueur,3/4 oz,fresh lime juice,1/2 oz,simple syrup,2 oz,ginger ale,collins glass
+fancy-free cocktail,whiskies,2 oz,bourbon whiskey,1/2 oz,maraschino liqueur,1 oz,angostura bitters,1 oz,orange bitters,,,,,cocktail glass
+honeymoon cocktail,brandy,3/4 oz,apple brandy,3/4 oz,benedictine,3/4 oz,fresh lemon juice,1/2 oz,triple sec,,,,,cocktail glass
+twister,vodka,2 oz,vodka,1/2 oz,fresh lime juice,,lime wedge,,lemon-lime soda,,,,,collins glass
+everybody's irish cocktail,whiskies,2 oz,irish whiskey,1 oz,green creme de menthe,1 oz,green chartreuse,1 oz,green olive,,,,,cocktail glass
+trident,vodka,1 oz,aquavit or vodka,1/2 oz,cynar,1 oz,dry sherry,2 oz,peach bitters,lemon twist,,,,cocktail glass
+top banana,vodka,1 oz,vodka,1 oz,creme de banana,2 oz,orange juice,,,,,,,old-fashioned glass
+emperor norton's mistress,whiskies,3 oz,"fresh strawberries, cut in halves",1 1/2 oz,bourbon whiskey,1/2 oz,vanilla liqueur,1/4 oz,triple sec,strawberry slice,,,,old-fashioned glass
+easterner,whiskies,2 oz,straight rye whiskey,1 oz,fresh grapefruit juice,1/2 oz,maple syrup,,grapefruit twist,,,,,cocktail glass
+toasted drop,vodka,for glass,"lemon wedge, cinnamon sugar",1 1/2 oz,citrus-flavored vodka,3/4 oz,limoncello,1/4 oz,amaretto,3/4 oz,fresh lemon juice,1 oz,egg white,cocktail glass
+eastern sour,whiskies,2 oz,bourbon whiskey,1 1/2 oz,orange juice,1 oz,fresh lime juice,1/4 oz,orgeat or almond syrup,1/4 oz,simple syrup,,orange and lime wheels,highball glass
+k. c. b. cocktail,cocktail classics,1/2 oz,kummel,1 1/2 oz,mr. boston gin,1/4 oz,mr. boston apricot flavored brandy,1/4 oz,lemon juice,,,,,cocktail glass
+easter elchies,whiskies,2 oz,single-malt scotch whisky,1/2 oz,cherry heering,1/2 oz,punt e mes,1 oz,orange bitters,brandied cherry,,,,cocktail glass
+dufftown flip,whiskies,2 oz,blended scotch whiskey,1/2 oz,port,1/2 oz,demerara syrup,1/2 oz,almond milk,1 oz,whole egg,,freshly grated nutmeg,brandy snifter
+harvard cooler,brandy,2 oz,apple brandy,1/2 oz,simple syrup,,soda water or ginger ale,,orange and/or lemon zest spiral,,,,,collins glass
+the duboudreau cocktail,whiskies,2 oz,straight rye whiskey,3/4 oz,dubonnet rouge,1/4 oz,fernet-branca,1/4 oz,elderflower liqueur,lemon twist,,,,cocktail glass
+irish whisky,cocktail classics,1/2 oz,mr. boston triple sec,1/2 oz,absinthe substitute,1/4 oz,maraschino,1 oz,bitters,2 oz,irish whiskey,,,cocktail glass
+dubliner,whiskies,2 oz,irish whiskey,1/2 oz,sweet vermouth,1/2 oz,grand marnier,2 oz,orange bitters,"orange twist, flamed",,,,cocktail glass
+double standard sour,whiskies,3/4 oz,rye or bourbon whiskey,3/4 oz,gin,1 oz,fresh lemon juice,1/2 oz,white creme de menthe,1/2 oz,grenadine,1/4 oz,simple syrup,cocktail glass
+dixie whiskey cocktail,whiskies,2 oz,bourbon whiskey,1/2 oz,white creme de menthe,1/2 oz,triple sec,1/4 oz,simple syrup,1 oz,angostura bitters,,,cocktail glass
+hill billy highball,cocktail classics,2 oz,georgia moon corn whiskey,,mountain dew,,,,,,,,,highball glass
+the titian,vodka,1 oz,orange-flavored vodka,1/2 oz,grand marnier,1 oz,passion fruit juice,1/2 oz,fresh lime juice,1/2 oz,pomegranate syrup,,fresh raspberry,cocktail glass
+tiger tanaka,vodka,3 oz,fresh cilantro leaves,1 oz,slice peeled fresh ginger,2 oz,citrus-flavored vodka,1/2 oz,limoncello,3/4 oz,pineapple juice,,,cocktail glass
+grenadine rickey,cocktail classics,1/2 oz,juice of a lime,1 1/2 oz,grenadine,,,,,,,,,highball glass
+thyme collins,vodka,2 oz,citrus-flavored vodka,1 oz,mint syrup,1 oz,fresh lemon juice,1 oz,thyme sprig,3 oz,bitter lemon soda,2 oz,long thyme sprigs,collins glass
+tabby cat,vodka,2 oz,dubonnet rouge,1 oz,orange-flavored vodka,2 oz,orange bitters,,lemon twist,,,,,cocktail glass
+god child,cocktail classics,1 oz,amaretto di saronno,1 oz,mr. boston vodka,1 oz,heavy cream,,,,,,,champagne flute
+sweet maria,vodka,1 oz,vodka,1/2 oz,amaretto,1/2 oz,half-and-half,,,,,,,cocktail glass
+dirty harry,whiskies,1 oz,absinthe,2 oz,straight rye whiskey,1/2 oz,sweet vermouth,1/4 oz,maraschino liqueur,maraschino cherry,,,,cocktail glass
+harvard cocktail,brandy,1 1/2 oz,brandy,3/4 oz,sweet vermouth,1/2 oz,fresh lemon juice,1 oz,grenadine,1 oz,angostura bitters,,,cocktail glass
+gin and milk punch,cocktail classics,1 oz,powdered sugar,2 oz,mr. boston gin,1 oz,milk,,,,,,,collins glass
+surf rider,vodka,2 oz,vodka,1/2 oz,sweet vermouth,2 oz,fresh orange juice,1/2 oz,fresh lemon juice,1/4 oz,grenadine,,"orange half-wheel, maraschino cherry",highball glass
+dinah cocktail,whiskies,1 1/2 oz,bourbon whiskey,3/4 oz,fresh lemon juice,1/2 oz,simple syrup,,fresh mint leaf,,,,,cocktail glass
+tea saronno,cocktail classics,6 oz,hot tea,1 1/2 oz,amaretto di saronno,1 oz,whipped cream,,,,,,,stem glass
+the summer of love,vodka,2 oz,orange-flavored vodka,2 oz,rose water,1 oz,lillet blanc,1/4 oz,black raspberry liqueur,,,,,cocktail glass
+devil's soul,whiskies,1 1/2 oz,straight rye whiskey,1/2 oz,mezcal,1/2 oz,amaro,1/4 oz,aperol,1/4 oz,elderflower liqueur,,"orange twist, flamed",cocktail glass
+deshler,whiskies,1 1/2 oz,straight rye whiskey,1/2 oz,dubonnet rouge,1/4 oz,triple sec,2 oz,angostura bitters,lemon twist,,,,champagne flute
+t.n.t. no. 1,cocktail classics,1 1/2 oz,old thompson blended whiskey,1 1/2 oz,absinthe substitute,,,,,,,,,cocktail glass
+stupid cupid,vodka,2 oz,citrus-flavored vodka,1/2 oz,sloe gin,1 oz,simple syrup,1 oz,fresh lemon juice,maraschino cherry,,,,cocktail glass
+derby,whiskies,2 oz,bourbon whiskey,1/4 oz,benedictine,1 oz,angostura bitters,,lemon twist,,,,,cocktail glass
+stockholm 75,vodka,for glass,"lemon wedge, superfine sugar",3/4 oz,citrus-flavored vodka,3/4 oz,simple syrup,3/4 oz,fresh lemon juice,3 oz,chilled champagne,,,cocktail glass
+the delmarva cocktail,whiskies,2 oz,straight rye whiskey,1/2 oz,dry vermouth,1/2 oz,white creme de menthe,1/2 oz,fresh lemon juice,fresh mint sprigs,,,,cocktail glass
+sputnik,vodka,1 1/4 oz,vodka,1 1/4 oz,peach schnapps,3 oz,fresh orange juice,3 oz,half-and-half,peach slice,,,,red-wine glass
+gotham,brandy,1 oz,absinthe or pastis,3 oz,brandy,3 oz,peach bitters,,lemon twist,,,,,old-fashioned glass
+de la louisiane,whiskies,3/4 oz,straight rye whiskey,3/4 oz,sweet vermouth,3/4 oz,benedictine,3 oz,absinthe or pastis,3 oz,peychaud's bitters,,maraschino cherry,cocktail glass
+the debonair,whiskies,2 1/2 oz,single-malt scotch whisky,1 oz,ginger liqueur,,lemon twist,,,,,,,cocktail glass
+soviet,vodka,1 1/2 oz,vodka,1/2 oz,amontillado sherry,1/2 oz,dry vermouth,,lemon twist,,,,,old-fashioned glass
+daisy dueller,whiskies,2 oz,tennessee whiskey,3/4 oz,fresh lemon juice,3/4 oz,simple syrup,1/2 oz,triple sec,soda water,,,orange and lemon wheels,highball glass
+sonic blaster,vodka,1/2 oz,vodka,1/2 oz,light rum,1/2 oz,creme de banana,1 oz,pineapple juice,1 oz,orange juice,1 oz,cranberry juice,collins glass
+creole lady,whiskies,1 1/2 oz,bourbon whiskey,1 1/2 oz,madeira,1 oz,grenadine,,maraschino cherry,,,,,cocktail glass
+rum coooler,cocktail classics,1/2 tsp,powdered sugar,2 oz,carbonated water,1 oz,mr. boston rum,,ginger ale,spirals of lemon and orange peel,,,,collins glass
+siberian sleighride,vodka,1 1/4 oz,vodka,3/4 oz,white creme de cacao,1/2 oz,white creme de menthe,3 oz,half-and-half,shaved bittersweet chocolate,,,,brandy snifter
+cotton club flip,whiskies,2 oz,vanilla-infused bourbon,1/2 oz,honey-currant syrup,3/4 oz,fresh lime juice,1 oz,egg white,2 oz,rhubarb bitters,,stick of cotton candy,old-fashioned glass
+golden dawn,brandy,1 oz,apple brandy,1/2 oz,apricot-flavored brandy,1/2 oz,gin,1 oz,fresh orange juice,1 oz,grenadine,,,old-fashioned glass
+sidecar,cocktail classics,1 oz,cognac,1 oz,triple sec,1/2 oz,fresh lemon juice,1 1/2 oz,vodka,1 oz,madeira,1/2 oz,fresh orange juice and orange wheel,cocktail glass
+shalom,vodka,1 1/2 oz,vodka,1 oz,madeira,1/2 oz,fresh orange juice and orange wheel,2 oz,bourbon whiskey,3/4 oz,white creme de cacao,1/2 oz,fresh lemon juice,old-fashioned glass
+commodore cocktail,whiskies,2 oz,bourbon whiskey,3/4 oz,white creme de cacao,1/2 oz,fresh lemon juice,1 oz,grenadine,,,,,champagne flute
+sea breeze,vodka,1 1/2 oz,vodka,4 oz,cranberry juice,1 oz,fresh grapefruit juice,,lime wedge,,,,,highball glass
+screwdriver,vodka,1 1/2 oz,vodka,5 oz,orange juice,,,,,,,,,highball glass
+coffee old-fashioned,whiskies,2 oz,bourbon whiskey,3/4 oz,simple syrup,2 oz,angostura bitters,1 oz,cold brewed coffee,2 oz,soda water,,"orange wheel, maraschino cherry",old-fashioned glass
+dry martini,cocktail classics,1 2/3 oz,mr. boston gin,1/3 oz,dry vermouth,,,,,,,,,
+salty dog,vodka,for glass,"lemon wedge, coarse salt",1 1/2 oz,vodka,5 oz,grapefruit juice,,,,,,,highball glass
+dr. cook,cocktail classics,3/4 oz,mr. boston gin,1 oz,lemon juice,1 oz,maraschino,1 oz,egg white,,,,,red-wine glass
+dillatini cocktail,cocktail classics,1 1/2 oz,mr. boston gin,3/4 oz,dry vermouth,,,,,,,,,
+chi-town flip,whiskies,2 oz,bourbon whiskey,3/4 oz,tawny port,3/4 oz,fresh lemon juice,3/4 oz,vanilla liqueur and 3 oz,1/4 oz,simple syrup,1 oz,whole egg and grated nutmet,collins glass
+chef's pain,vodka,2 oz,bourbon whiskey,3/4 oz,fresh lime juice,1/2 oz,blackberry liqueur,1/2 oz,b & b,,,,,cocktail glass
+sampan shipwreck a,vodka,1 1/2 oz,vodka,1/2 oz,orange liqueur,1/2 oz,canned coconut milk,1/2 oz,cold brewed chai tea,1/2 oz,orgeat or almond syrup,,pineapple wedge,cocktail glass
+chas,whiskies,1 1/2 oz,bourbon whiskey,1/4 oz,amaretto,1/4 oz,benedictine,1/4 oz,triple sec,1/4 oz,orange curacao,,orange twist,cocktail glass
+goat's delight,brandy,1 oz,brandy,1 1/2 oz,kirschwasser,1/4 oz,half-and-half,1 oz,orgeat or almond syrup,1 oz,absinthe or pastis,,,cocktail glass
+russian bear cocktail,vodka,1 oz,vodka,1/2 oz,white creme de cacao,1/2 oz,half-and-half,,,,,,,cocktail glass
+character development,whiskies,2 oz,scotch whiskey,1/2 oz,coconut liqueur,1/2 oz,dry sherry,2 oz,grapefruit bitters,grapefruit twist,,,,cocktail glass
+ruby red,vodka,2 oz,grapefruit-flavored vodka,1 1/2 oz,triple sec,1 1/2 oz,fresh ruby red grapefruit juice,1 oz,fresh orange juice,grapefruit twist,,,,cocktail glass
+chaplin,whiskies,3/4 oz,bourbon whiskey,3/4 oz,dry sherry,3/4 oz,ramazzotti amaro,1 oz,triple sec,2 oz,orange bitters,,lemon twist,cocktail glass
+rouxby red,vodka,for glass,"for glass lemon wedge, coarse salt",1 1/2 oz,grapefruit-flavored vodka,1/4 oz,fresh lemon juice,3/4 oz,grapefruit juice,1/2 oz,campari,1/2 oz,simple syrup,cocktail glass
+rosemary clementine sparkle,vodka,1/4 oz,clementine or mandarin orange,1 1/2 oz,vodka,3/4 oz,fresh lemon juice,3/4 oz,honey syrup,1 oz,fresh rosemary sprig,1 oz,chilled sparkling wine or champagne,cocktail glass
+chapel hill,whiskies,2 oz,bourbon whiskey,1/2 oz,triple sec,1/2 oz,fresh lemon juice,,orange twist,,,,,cocktail glass
+robin's nest,vodka,1 oz,vodka,1 oz,cranberry juice,1/2 oz,white creme de cacao,,,,,,,cocktail glass
+chancellor cocktail,whiskies,1 1/2 oz,blended scotch whiskey,1/2 oz,dry vermouth,1/2 oz,tawny port,1 oz,peychaud's bitters,lemon twist,,,,cocktail glass
+cafe di saronno,cocktail classics,1 oz,amaretto di saronno,,hot black coffee,,,,,,,,,mug
+carre reprise,whiskies,1 oz,straight rye whiskey,1 oz,cognac,1 oz,sweet vermouth,1/2 oz,elderflower liqueur,1 oz,angostura bitters,1 oz,peychaud's bitters,old-fashioned glass
+gilroy cocktail,brandy,3/4 oz,cherry-flavored brandy,3/4 oz,gin,1/2 oz,dry vermouth,1/2 oz,fresh lemon juice,1 oz,orange bitters,,,cocktail glass
+redhead martini,vodka,4 oz,"strawberries, cut into halves",3/4 oz,fresh lemon juice,3/4 oz,simple syrup,1 1/2 oz,citrus-flavored vodka,1 oz,chilled moscato d'asti or sweet sparkling wine,,strawberry,cocktail glass
+red apple,vodka,1 1/2 oz,vodka,1 oz,apple juice,1/2 oz,fresh lemon juice,1 oz,grenadine,,,,,cocktail glass
+canal street daisy,whiskies,1 oz,blended scotch whiskey,1 oz,orange juice,3/4 oz,fresh lemon juice,1 oz,soda water,1 oz,orange wheel,,,collins glass
+canadian cocktail,whiskies,1 1/2 oz,canadian whisky,1/2 oz,triple sec,1/2 oz,simple syrup,1 oz,angostura bitters,,,,,cocktail glass
+purple ruby,vodka,1 1/2 oz,vodka,1 1/2 oz,pomegranate juice,1/2 oz,grapefruit juice,1/4 oz,fresh lime juice,1/4 oz,honey syrup,,grapefruit twist,cocktail glass
+canadian cherry,whiskies,1 oz,maraschino liqueur,1 1/2 oz,canadian whisky,1/2 oz,maraschino liqueur,1/2 oz,fresh lemon juice,1/2 oz,orange juice,,,old-fashioned glass
+orange smile,cocktail classics,1 oz,egg,1 oz,juice of orange,1 oz,grenadine,,,,,,,red-wine glass
+purple passion iced tea,vodka,1/2 oz,vodka,1/2 oz,light rum,1/2 oz,gin,1/2 oz,black raspberry liqueur,1/2 oz,simple syrup,3/4 oz,fresh lemon juice and 3 oz,highball glass
+canadian breeze,whiskies,1 1/2 oz,canadian whisky,3/4 oz,pineapple juice,1/2 oz,fresh lemon juice,1/4 oz,maraschino liqueur,1 oz,"pineapple wedge, maraschino cherry",,,old-fashioned glass
+purple passion,vodka,1 1/2 oz,vodka,2 oz,grapefruit juice,2 oz,concord grape juice,1/2 oz,simple syrup,,,,,collins glass
+cameron's kick cocktail,whiskies,3/4 oz,blended scotch whiskey,3/4 oz,irish whiskey,1/2 oz,fresh lemon juice,2 oz,orange bitters,,,,,cocktail glass
+georgia mint julep,brandy,2 oz,mint sprigs,1/4 oz,simple syrup,1 1/2 oz,brandy,1 oz,peach-flavored brandy,mint sprigs,,,,collins glass
+california lemonade,whiskies,2 oz,bourbon whiskey,1 oz,fresh lemon juice,1 oz,fresh lime juice,1 oz,simple syrup,1/4 oz,grenadine,1 oz,"soda water, orange and lemon wheels, maraschino cherry",collins glass
+boston side car,cocktail classics,3/4 oz,mr. boston five star brandy,3/4 oz,mr. boston rum,3/4 oz,mr. boston triple sec,1/2 oz,juice of a lime,,,,,cocktail glass
+cablegram,whiskies,2 oz,bourbon whiskey,1 oz,fresh lemon juice,1/2 oz,simple syrup,1 oz,ginger ale,,,,,highball glass
+bull and bear,whiskies,1 1/2 oz,bourbon whiskey,3/4 oz,orange curacao,1 oz,fresh lemon juice,1/4 oz,grenadine,"maraschino cherry, orange half-wheel",,,,cocktail glass
+brooklyn,whiskies,1 1/2 oz,rye or bourbon whiskey,1/2 oz,sweet vermouth,1 oz,amer picon or torani amer,1 oz,maraschino liqueur,,,,,cocktail glass
+brighton punch,whiskies,3/4 oz,bourbon whiskey,3/4 oz,brandy,3/4 oz,benedictine,2 oz,orange juice,1 oz,fresh lemon juice,,"soda water, orange and lemon wheels",collins glass
+bourbon renewal,whiskies,2 oz,bourbon whiskey,1 oz,fresh lemon juice,1/2 oz,creme de cassis,1/2 oz,simple syrup,1 oz,angostura bitters,,,old-fashioned glass
+bourbon highball,whiskies,2 oz,bourbon whiskey,,ginger ale or soda water,,lemon twist,,,,,,,highball glass
+bourbon and elder,whiskies,2 oz,bourbon whiskey,3/4 oz,elderflower liqueur,1 oz,angostura bitters,,lemon twist,,,,,old-fashioned glass
+bourbon crusta,whiskies,for glass,"lemon wedge, superfine sugar,  long, wide spiral of orange zest",2 oz,bourbon whiskey,1/2 oz,triple sec,1 oz,maraschino liqueur,1 oz,fresh lemon juice,2 oz,orange bitters,cocktail glass
+bourbon cooler,whiskies,2 1/2 oz,bourbon whiskey,1/2 oz,fresh lemon juice,1/2 oz,grapefruit juice,1/2 oz,orgeat syrup,peach slice,,,,old-fashioned glass
+froupe cocktail,brandy,1 1/2 oz,brandy,1 1/2 oz,sweet vermouth,1 oz,benedictine,,,,,,,cocktail glass
+bourbon a la creme,whiskies,2 oz,bourbon whiskey,1 oz,dark creme de cacao,1/2 oz,vanilla liqueur,,,,,,,old-fashioned glass
+the bone,whiskies,2 oz,bourbon whiskey,1/2 oz,fresh lime juice,1/2 oz,simple syrup,3 oz,hot red pepper sauce,,,,,shot glass
+bobby burns cocktail,whiskies,1 1/2 oz,blended scotch whiskey,1 1/2 oz,sweet vermouth,1 oz,benedictine,,lemon twist,,,,,cocktail glass
+bloody scotsman,whiskies,24 oz,"smoky scotch whisky, such as laphroaig",24 oz,tomato juice,24 oz,v8 cocktail juice,1c,ketchup,3 oz,fresh lime juice,3 oz,"simple syrup, 3/4 oz",old-fashioned glass
+white cargo cocktail,cocktail classics,1 oz,vanilla ice cream,1 oz,mr. boston gin,,,,,,,,,old-fashioned glass
+blood and sand,whiskies,1/2 oz,blended scotch whiskey,1/2 oz,cherry-flavored brandy,1/2 oz,sweet vermouth,1/2 oz,orange juice,,,,,cocktail glass
+the blinker,whiskies,2 oz,straight rye whisky,1 1/2 oz,grapefruit juice,1 oz,raspberry syrup,,grapefruit twist or skewered raspberry,,,,,cocktail glass
+pike's peak cooler,cocktail classics,,cider,1/2 oz,juice of a lemon,1 oz,powdered sugar,1 oz,whole egg,,,,,collins glass
+blarney stone cocktail,whiskies,2 oz,irish whiskey,1/2 oz,anisette,1/2 oz,triple sec,1/2 oz,maraschino liqueur,1 oz,angostura bitters,1 oz,"orange twist, green olive",cocktail glass
+pacman,cocktail classics,2 oz,lemon juice,1 oz,grenadine,1 oz,bitters,,ginger ale,,,,,collins glass
+lemonade (golden),cocktail classics,1 oz,juice of a lemon,2 oz,powdered sugar,1 oz,egg yolk,6 oz,water,,,,,collins glass
+black hawk,whiskies,1 1/2 oz,bourbon whiskey,1 1/2 oz,sloe gin,1 oz,maraschino cherry,,,,,,,cocktail glass
+lemonade (egg),cocktail classics,1 oz,juice of a lemon,2 oz,powdered sugar,1 oz,whole egg,,,,,,,collins glass
+bensonhurst,whiskies,1 oz,cynar,2 oz,straight rye whiskey,1 oz,dry vermouth,1/4 oz,maraschino liqueur,,,,,cocktail glass
+chocolate daisy,cocktail classics,1/2 oz,juice of a lemon,1/2 oz,powdered sugar,1 oz,grenadine,1 1/2 oz,brandy,1 1/2 oz,port,,,stein
+the beautiful day,whiskies,1 1/4 oz,irish whiskey,3/4 oz,rhubarb syrup,2 oz,cold brewed green tea,,edible flowers,,,,,old-fashioned glass
+french quarter,brandy,2 oz,brandy,3/4 oz,lillet blanc,,lemon quarter-wheel,,,,,,,cocktail glass
+creme de gin cocktail,cocktail classics,1 1/2 oz,gin,1/2 oz,white creme de menthe,1 oz,egg white,2 oz,lemon juice,2 oz,orange juice,,,cocktail glass
+creamy screwdriver,cocktail classics,2 oz,vodka,1 oz,egg yolk,6 oz,orange juice,1 oz,sugar,,,,,collins glass
+creamy orange,cocktail classics,1 oz,orange juice,1 oz,cream sherry,3/4 oz,brandy,1 oz,light cream,,,,,cocktail glass
+creamsicle,cocktail classics,1 1/2 oz,vanilla liqueur,1 1/2 oz,milk,3 oz,orange juice,,,,,,,collins glass
+cowboy cocktail,cocktail classics,1 1/2 oz,blended whiskey,1 oz,light cream,,,,,,,,,cocktail glass
+beals cocktail,whiskies,1 1/2 oz,blended scotch whiskey,1/2 oz,dry vermouth,1/2 oz,sweet vermouth,,,,,,,cocktail glass
+coronation cocktail,cocktail classics,3/4 oz,gin,3/4 oz,dubonnet,3/4 oz,dry vermouth,,,,,,,cocktail glass
+cornell cocktail,cocktail classics,1/2 oz,lemon juice,1 oz,maraschino,1 oz,egg white,1 1/2 oz,gin,,,,,cocktail glass
+combo,cocktail classics,2 1/2 oz,dry vermouth,1 oz,brandy,1/2 oz,triple sec,1/2 oz,powdered sugar,1 oz,bitters,,,old-fashioned glass
+basin street,whiskies,2 oz,bourbon whiskey,3/4 oz,triple sec,3/4 oz,fresh lemon juice,,,,,,,cocktail glass
+cole's raspberry cream,cocktail classics,1 1/2 oz,raspberry yogurt,1 1/2 oz,raspberry ice cream,1 1/2 oz,white creme de cacao,1 1/2 oz,vodka,2 oz,heavy cream,,,champagne flute
+cognac coupling,cocktail classics,2 oz,cognac,1 oz,tawny port,1/2 oz,anis,1 oz,lemon juice,,,,,old-fashioned glass
+coffee sour,cocktail classics,1 1/2 oz,coffee-flavored brandy,1 oz,lemon juice,1 oz,powdered sugar,1/2 oz,egg white,,,,,sour glass
+coffee flip,cocktail classics,1 oz,whole egg,1 oz,powdered sugar,1 oz,brandy,1 oz,port,2 oz,light cream (if desired),,,sour glass
+coffee cocktail,cocktail classics,1 oz,whole egg,1 oz,powdered sugar,1 oz,port,1 oz,brandy,,,,,sour glass
+purple mask,vodka,1 oz,vodka,1 oz,concord grape juice,1/2 oz,white creme de cacao,,,,,,,cocktail glass
+clove cocktail,cocktail classics,1 oz,sweet vermouth,1/2 oz,sloe gin,1/2 oz,muscatel wine,,,,,,,cocktail glass
+clover leaf cocktail,cocktail classics,1 oz,juice of a lime,2 oz,grenadine,1 oz,egg white,1 1/2 oz,gin,,,,,cocktail glass
+clover club cocktail,cocktail classics,1 oz,juice of a lemon,2 oz,grenadine,1 oz,egg white,1 1/2 oz,gin,,,,,cocktail glass
+priority cocktail,vodka,2 oz,vodka,1/2 oz,calvados,1/2 oz,coffee liqueur,,lemon twist,,,,,cocktail glass
+clamato cocktail,cocktail classics,1 1/2 oz,vodka,1 oz,clam juice,3 oz,tomato juice,,,,,,,old-fashioned glass
+cider eggnog,cocktail classics,1 oz,whole egg,1 oz,powdered sugar,1/2 oz,milk,,,,,,,collins glass
+chocolate soldier,cocktail classics,1/2 oz,juice of a lime,3/4 oz,dubonnet,1 1/2 oz,gin,,,,,,,cocktail glass
+chocolate flip,cocktail classics,1 oz,whole egg,1 oz,powdered sugar,3/4 oz,sloe gin,3/4 oz,brandy,2 oz,light cream (if desired),,,sour glass
+chocolate cocktail,cocktail classics,1 1/2 oz,port,1 1/2 oz,yellow chartreuse,1 oz,egg yolk,1 oz,powdered sugar,,,,,sour glass
+chicago fizz,cocktail classics,1/2 oz,juice of a lemon,1 oz,powdered sugar,1 oz,egg white,1 oz,port,1 oz,light rum,,,highball glass
+pretty in pink,vodka,2 oz,vodka,1/2 oz,cranberry juice,3/4 oz,creme de noyaux,3/4 oz,fresh lemon juice,soda water,,,,collins glass
+cherry wine cocktail,cocktail classics,3/4 oz,danish cherry wine,3/4 oz,vodka,1/2 oz,juice of a lime,,,,,,,cocktail glass
+cherry flip,cocktail classics,1 oz,whole egg,1 oz,powdered sugar,1 1/2 oz,cherry-flavored brandy,2 oz,light cream (if desired),,,,,sour glass
+cherry cooler,cocktail classics,2 oz,cherry vodka,,cola,,,,,,,,,collins glass
+polynesian cocktail,vodka,,"lime wedge, superfine sugar",1 1/2 oz,vodka,3/4 oz,cherry-flavored brandy,3/4 oz,fresh lime juice,,,,,cocktail glass
+chateau briand's rum cow,cocktail classics,1 1/4 oz,dark rum,1 oz,sugar,2 oz,bitters,3/4 oz,milk,,,,,collins glass
+champagne velvet,cocktail classics,5 oz,chilled stout,5 oz,chilled champagne,,,,,,,,,champagne flute
+pink pussycat,vodka,1 1/2 oz,vodka,2 oz,pineapple or grapefruit juice,1/2 oz,grenadine,,,,,,,highball glass
+back porch swizzle,whiskies,1 1/2 oz,bourbon whiskey,1/2 oz,dry vermouth,1 oz,pineapple juice,1 oz,ginger beer,green chartreuse,,,fresh mint sprig,highball glass
+canadian pineapple,cocktail classics,1 1/2 oz,canadian whisky,1 oz,pineapple juice,1 oz,lemon juice,1/2 oz,maraschino,,,,,old-fashioned glass
+calm voyage,cocktail classics,1/2 oz,strega,1/2 oz,light rum,1 oz,passion fruit syrup,2 oz,lemon juice,1/2 oz,egg white,,,champagne flute
+pink lemonade,vodka,1 1/2 oz,citrus-flavored vodka,1/4 oz,triple sec,1/4 oz,fresh lime juice,1/4 oz,fresh lemon juice,1/4 oz,simple syrup,2 oz,"cranberry juice, lemon wheel",collins glass
+caledonia,cocktail classics,1 oz,creme de cacao (brown),1 oz,brandy,1 oz,milk,1 oz,egg yolk,,,,,old-fashioned glass
+caf_ di amaretto,cocktail classics,1 oz,hot black coffee,1 oz,amaretto,,whipped cream,,,,,,,mug
+cafe de paris cocktail,cocktail classics,1 oz,egg white,1 oz,anis,1 oz,light cream,1 1/2 oz,gin,,,,,cocktail glass
+aztec's mark,whiskies,1 1/2 oz,bourbon whiskey,1/2 oz,white creme de cacao,1/4 oz,benedictine,2 oz,hot red pepper sauce,orange twist,,,,cocktail glass
+fontainebleau special,brandy,1 oz,brandy,1 oz,anisette,1/2 oz,dry vermouth,,,,,,,cocktail glass
+suntan,cocktail classics,2 oz,hot shot tropical fruit liqueur,2 oz,orange juice,,,,,,,,,highball glass
+sunburn,cocktail classics,2 oz,hot shot tropical fruit liqueur,2 oz,grapefruit juice,,,,,,,,,highball glass
+suissesse cocktail,cocktail classics,2 oz,anisette,1 oz,egg white,,,,,,,,,cocktail glass
+strawberry sunries,cocktail classics,2 oz,strawberry schnapps,1/2 oz,grenadine,,,,,,,,,highball glass
+autumn leaves,whiskies,3/4 oz,straight rye whiskey,3/4 oz,apple brandy,3/4 oz,sweet vermouth,1/4 oz,strega,2 oz,angostura bitters,,orange twist,old-fashioned glass
+pickled pink,vodka,2 oz,vodka,1 oz,aquavit,1/2 oz,dill pickle brine,2 oz,angostura bitters,dill sprig,,,,cocktail glass
+aquarius,whiskies,1 1/2 oz,blended scotch whiskey,1/2 oz,cherry-flavored brandy,1 oz,cranberry juice,,,,,,,old-fashioned glass
+soul kiss cocktail,cocktail classics,1 1/2 oz,orange juice,1 1/2 oz,dubonnet,3/4 oz,dry vermouth,3/4 oz,bourbon,,,,,cocktail glass
+pickled martini,vodka,2 oz,vodka,1/4 oz,dry vermouth,3/4 oz,sweet pickle brine,1,sweet pickle slice,,,,,cocktail glass
+sloe gin flip,cocktail classics,1 oz,whole egg,1 oz,powdered sugar,1 oz,sloe gin,2 oz,light cream (if desired),,,,,sour glass
+angel's share,whiskies,1 1/2 oz,bourbon whiskey,1/2 oz,amaro,1/4 oz,creme de cassis,1 oz,orange bitters,lemon twist,,,,cocktail glass
+silver stallion fizz,cocktail classics,1 oz,vanilla ice cream,2 oz,gin,,carbonated water,,,,,,,highball glass
+silver king cocktail,cocktail classics,1 oz,egg white,1/4 oz,juice of a lemon,1 1/2 oz,gin,1/2 oz,powdered sugar,2 oz,orange bitters,,,cocktail glass
+american trilogy,whiskies,1 oz,"brown sugar cube, such as demerara",1 oz,straight rye whiskey,1 oz,applejack,,orange twist,,,,,old-fashioned glass
+silver fizz,cocktail classics,1/2 oz,juice of a lemon,1 oz,powdered sugar,2 oz,gin,1 oz,egg white,carbonated water,,,,highball glass
+sherry twist cocktail,cocktail classics,1 oz,cream sherry,1/2 oz,brandy,1/2 oz,dry vermouth,1/2 oz,triple sec,1/2 oz,lemon juice,,,cocktail glass
+sherry sangaree,cocktail classics,1/2 oz,powdered sugar,1 oz,water,2 oz,cream sherry,,carbonated water,1 oz,port,,,old-fashioned glass
+sherry milk punch,cocktail classics,1 oz,powdered sugar,2 oz,cream sherry,16 milk,,,,,,,,collins glass
+petit zinc,vodka,1 oz,vodka,1/2 oz,triple sec,1/2 oz,sweet vermouth,1/2 oz,orange juice,orange wedge,,,,cocktail glass
+sherry flip,cocktail classics,1 oz,whole egg,1 oz,powdered sugar,1 1/2 oz,cream sherry,2 oz,light cream (if desired),,,,,sour glass
+sherry-and-egg cocktail,cocktail classics,1 egg,,2 oz,cream sherry,,,,,,,,,cocktail glass
+americana,whiskies,1 oz,tennessee whiskey,1/2 oz,simple syrup,2 oz,angostura bitters,,chilled american sparkling wine,peach slice,,,,collins glass
+allegheny,whiskies,1 oz,bourbon whiskey,1 oz,dry vermouth,1/2 oz,blackberry-flavored brandy,1/2 oz,fresh lemon juice,lemon twist,,,,cocktail glass
+sevilla cocktail,cocktail classics,1/2 oz,powdered sugar,1 oz,whole egg,1 oz,port,1 oz,light rum,,,,,sour glass
+september morn cocktail,cocktail classics,1 oz,egg white,1 oz,light rum,1/2 oz,juice of a lime,1 oz,grenadine,,,,,cocktail glass
+peach iced tea,vodka,1 1/2 oz,peach-flavored vodka,1/2 oz,orange curacao,3/4 oz,fresh lemon juice,1/2 oz,honey syrup,2 oz,iced tea,,"peach slice, lemon wheel",collins glass
+fantasio cocktail,brandy,1 oz,brandy,3/4 oz,dry vermouth,1 oz,white creme de menthe,1 oz,maraschino liqueur,,,,,cocktail glass
+scotch bird flyer,cocktail classics,1 1/2 oz,scotch,1 oz,egg yolk,1/2 oz,triple sec,1/2 oz,powdered sugar,1 oz,light cream,,,champagne flute
+algonquin,whiskies,1 1/2 oz,straight rye whiskey,1 oz,dry vermouth,1 oz,pineapple juice,,,,,,,cocktail glass
+savannah,cocktail classics,1/2 oz,juice of orange,1 oz,gin,1 oz,white creme de cacao,1 oz,egg white,,,,,cocktail glass
+pink rose fizz,cocktail classics,1/2 oz,juice of a lemon,1 oz,powdered sugar,1 oz,egg white,2 oz,light cream,2 oz,gin,,,highball glass
+ninotchka cocktail,vodka,1 1/2 oz,vodka,1/2 oz,white creme de cacao,1/4 oz,fresh lemon juice,,,,,,,cocktail glass
+prairie oyster,cocktail classics,1 oz,brandy,1 oz,worcestershire sauce,1 oz,catsup,1 oz,vinegar,1 oz,pepper,,,old-fashioned glass
+prairie chicken,cocktail classics,1 oz,gin,1 oz,whole egg,,pepper and salt,,,,,,,red-wine glass
+pousse l'amour,cocktail classics,1 oz,maraschino,1 oz,egg yolk,1/2 oz,benedictine,1/2 oz,brandy,,,,,sherry glass
+puerto apple,cocktail classics,1 1/2 oz,applejack,3/4 oz,light rum,1 oz,lime juice,1 oz,orgeat syrup,,,,,old-fashioned glass
+akogare,whiskies,1 1/2 oz,straight rye whiskey,3/4 oz,ginger syrup,3/4 oz,"cold brewed black tea, preferably japanese",3/4 oz,fresh lemon juice,orange twist,,,,cocktail glass
+prado,cocktail classics,1 1/2 oz,tequila,3/4 oz,lemon juice,1 oz,maraschino,1/2 oz,egg white,1 oz,grenadine,,,sour glass
+port wine flip,cocktail classics,1 oz,whole egg,1 oz,powdered sugar,1 1/2 oz,port,2 oz,light cream (if desired),,,,,sour glass
+port wine cobbler,cocktail classics,1 tsp,powdered sugar,2 oz,carbonated water,,shaved ice,3 oz,port,fruits in season,,,,red-wine glass
+nijinksy blini,vodka,1 oz,vodka,1 oz,peach schnapps,1 oz,peach puree,1/4 oz,fresh lemon juice,chilled champagne,,,,champagne flute
+affinity cocktail (whisky),whiskies,1 oz,blended scotch whiskey,1 oz,dry vermouth,1 oz,sweet vermouth,3 oz,orange bitters,,,,,cocktail glass
+plain vermouth cocktail,cocktail classics,1 oz,dry vermouth,1 oz,sweet vermouth,1 oz,orange bitters,,,,,,,cocktail glass
+ping-pong cocktail,cocktail classics,1/4 oz,juice of a lemon,1 oz,egg white,2 oz,sloe gin,,,,,,,cocktail glass
+moscow mule,vodka,1 1/2 oz,vodka,1/2 oz,fresh lime juice,,ginger beer,,lime wedge,,,,,beer mug
+phoebe snow,cocktail classics,1 1/2 oz,dubonnet,1 1/2 oz,brandy,1/2 oz,anis,,,,,,,cocktail glass
+affinity cocktail,whiskies,2 oz,straight rye whiskey,3/4 oz,maraschino liqueur,3/4 oz,fresh lemon juice,2 oz,orange bitters,"orange twist, flamed",,,,cocktail glass
+peggy cocktail,cocktail classics,3/4 oz,dry vermouth,1 1/2 oz,gin,1/4 oz,anis,1/4 oz,dubonnet,,,,,cocktail glass
+peach blow fizz,cocktail classics,1/2 oz,juice of a lemon,1 oz,powdered sugar,1 oz,light cream,2 oz,gin,1/4 oz,peach,,,highball glass
+peach blossom,cocktail classics,1 oz,lemon juice,1/2 oz,powdered sugar,2 oz,gin,1/2 oz,peach,,,,,highball glass
+passion mimosa,cocktail classics,2 oz,chilled passion fruit juice,,chilled champagne,,,,,,,,,champagne flute
+mocha express,vodka,1 1/2 oz,vodka,3/4 oz,irish cream liqueur,3/4 oz,coffee liqueur,3/4 oz,cold brewed espresso coffee,,,,,cocktail glass
+palmer cocktail,cocktail classics,2 oz,blended whiskey,1 oz,bitters,1/2 oz,lemon juice,,,,,,,cocktail glass
+mr. 404,vodka,1 1/2 oz,vodka,3/4 oz,elderflower liqueur,3/4 oz,fresh lemon juice,1/2 oz,simple syrup,1/2 oz,aperol,,orange twist,cocktail glass
+mountain cocktail,cocktail classics,1 oz,egg white,1/4 oz,lemon juice,1/4 oz,dry vermouth,1/4 oz,sweet vermouth,1 1/2 oz,blended whiskey,,,cocktail glass
+morning glory fizz,cocktail classics,1/2 oz,juice of a lemon,1 oz,powdered sugar,1 oz,egg white,1/2 oz,anis,2 oz,scotch,,,highball glass
+adderly cocktail,whiskies,2 oz,straight rye whiskey,3/4 oz,maraschino liqueur,2 oz,orange bitters,3/4 oz,fresh lemon juice,"orange twist, flamed",,,,cocktail glass
+fancy brandy,brandy,2 oz,brandy,1/4 oz,triple sec,1/4 oz,simple syrup,1 oz,angostura bitters,lemon twist,,,,cocktail glass
+montreal gin sour,cocktail classics,1 oz,gin,1 oz,lemon juice,1/2 oz,egg white,1 oz,powdered sugar,,,,,sour glass
+montezuma,cocktail classics,1 1/2 oz,tequila,1 oz,madeira,1 oz,egg yolk,1/2 oz,crushed ice,,,,,champagne flute
+miss jones,vodka,1 1/2 oz,vanilla-flavored vodka,1 oz,fresh lemon juice,1/2 oz,butterscotch schnapps,1/2 oz,limoncello,star anise pod,,,,cocktail glass
+mint gin cocktail,cocktail classics,1 oz,mint-flavored gin,1 oz,white port wine,1 1/2 oz,dry vermouth,,,,,,,cocktail glass
+mint collins,cocktail classics,1/2 oz,juice of a lemon,2 oz,mint-flavored gin,,,,,,,,,collins glass
+million-dollar cocktail,cocktail classics,2 oz,pineapple juice,1 oz,grenadine,1 oz,egg white,3/4 oz,sweet vermouth,1 1/2 oz,gin,,,cocktail glass
+millionaire cocktail,cocktail classics,1 oz,egg white,1/4 oz,grenadine,1/2 oz,triple sec,1 1/2 oz,blended whiskey,,,,,cocktail glass
+academic review,whiskies,1 1/2 oz,irish whiskey,1/2 oz,applejack,1/2 oz,amaro nonino,1/2 oz,rye whiskey,1/4 oz,demerara syrup,2 oz,mole bitters 1 oz,old-fashioned glass
+milk punch,cocktail classics,1 oz,powdered sugar,2 oz,blended whiskey,1 oz,milk,,,,,,,collins glass
+merry widow fizz,cocktail classics,1/2 oz,juice of orange,1/2 oz,juice of a lemon,1 oz,egg white,1 oz,powdered sugar,1 1/2 oz,sloe gin,,,highball glass
+may blossom fizz,cocktail classics,1 oz,grenadine,1/2 oz,juice of a lemon,2 oz,swedish punch,,,,,,,highball glass
+mary garden cocktail,cocktail classics,1 1/2 oz,dubonnet,3/4 oz,dry vermouth,,,,,,,,,cocktail glass
+19th century,whiskies,1 1/2 oz,bourbon whiskey,3/4 oz,fresh lemon juice,3/4 oz,white creme de cacao,3/4 oz,lillet rouge,,,,,cocktail glass
+manila fizz,cocktail classics,2 oz,gin,1 oz,whole egg,1 oz,powdered sugar,2 oz,root beer,1/2 oz,juice of a lime,,,highball glass
+1626,whiskies,2 1/2 oz,bourbon whiskey,3/4 oz,gingerbread liqueur,1/2 oz,cherry-flavored brandy,2 oz,angostura bitters,1 oz,italian preserved cherry,,,cocktail glass
+maracuya mosquito,vodka,4 oz,fresh basil leaves,1 1/2 oz,vodka,1/2 oz,green chartreuse,1/2 oz,fresh lime juice,1/2 oz,simple syrup,1 oz,"passion fruit juice, basil leaf",collins glass
+madras,vodka,1 1/2 oz,vodka,4 oz,cranberry juice,1 oz,orange juice,,lime wedge,,,,,highball glass
+absinthe cocktail,cocktail classics,1 1/2 oz,absinthe substitute,2 oz,water,1 1/2 oz,old mr. boston anisette,1 oz,orange bitters,,,,,cocktail glass
+lychee lucy,vodka,1 1/2 oz,vodka,1/2 oz,lychee liqueur,1/2 oz,fresh orange juice,1/2 oz,pineapple juice,2 oz,angostura bitters,,canned pitted lychee nut stuffed with a small pineapple leaf,cocktail glass
+vodka martini,cocktail classics,1 1/2 oz,mr. boston vodka,3/4 oz,dry vermouth,,,,,,,,,
+the loop,vodka,2 oz,black cherry-flavored vodka,1/2 oz,white creme de cacao,1/2 oz,chile syrup,,grated bittersweet chocolate,,,,,old-fashioned glass
+long island iced tea,vodka,3/4 oz,vodka,3/4 oz,blanco tequila,3/4 oz,gin,3/4 oz,light rum,3/4 oz,triple sec,1/2 oz,"simple syrup, 1/2 oz",highball glass
+fallen leaves,brandy,3/4 oz,calvados,3/4 oz,sweet vermouth,1/4 oz,dry vermouth,1 oz,brandy,lemon twist,,,,cocktail glass
+l'italienne,vodka,2 oz,vodka,1/4 oz,lillet blanc,1/4 oz,ramazzotti amaro,1 oz,orange bitters,,,,,cocktail glass
+rum dubonnet,cocktail classics,1 1/2 oz,light rum,1 1/2 oz,dubonnet,1 oz,lemon juice,,,,,,,cocktail glass
+ruby fizz,cocktail classics,1/2 oz,juice of a lemon,1 oz,powdered sugar,1 oz,egg white,1 oz,grenadine,2 oz,sloe gin,,,highball glass
+limoncello manzanilla marmalade sour,vodka,1 1/2 oz,citrus-flavored vodka,3/4 oz,limoncello,3/4 oz,manzanilla sherry,3/4 oz,fresh lemon juice,1 oz,grapefruit marmalade,,orange twist,cocktail glass
+royal purple punch,cocktail classics,2 bottles,red wine,,ginger ale,,lemon,,whole cloves,,,,,punch cup
+royal gin fizz,cocktail classics,1/2 oz,juice of a lemon,1 oz,powdered sugar,2 oz,gin,1 oz,whole egg,,,,,highball glass
+royal cocktail,cocktail classics,1 oz,whole egg,1/2 oz,juice of a lemon,1/2 oz,powdered sugar,1 1/2 oz,gin,,,,,sour glass
+royal clover club cocktail,cocktail classics,1 oz,juice of a lime,1 oz,grenadine,1 oz,egg yolk,1 1/2 oz,gin,,,,,sour glass
+lights on the plaza,vodka,2,"cucumber slices, chopped",1/2 oz,fresh lemon juice,1/2 oz,simple syrup,1 1/2 oz,acai berry flavored vodka,1/2 oz,black raspberry liqueur,1 oz,"sparkling wine, raspberry and cucumber",cocktail glass
+rococo,cocktail classics,1 oz,cherry vodka,1 oz,orange juice,1/2 oz,triple sec,,,,,,,cocktail glass
+rock & rye cooler,cocktail classics,1 oz,rock and rye,1 1/2 oz,vodka,1 oz,lime juice,,bitter lemon soda,,,,,collins glass
+rock & rye cocktail,cocktail classics,1 oz,rock and rye,1 oz,white port wine,1 1/2 oz,dry vermouth,,,,,,,cocktail glass
+le paradini,vodka,1 1/2 oz,vodka,1/2 oz,raspberry-flavored liqueur,1/2 oz,grand marnier,1 oz,chilled champagne,,,,,cocktail glass
+red swizzle,cocktail classics,1 oz,juice of a lime,1 oz,powdered sugar,2 oz,carbonated water,2 oz,gin,2 oz,bitters,1 oz,grenadine,collins glass
+lemon drop,vodka,for glass,"lemon wedge, superfine sugar",1 1/2 oz,lemon-flavored vodka,3/4 oz,fresh lemon juice,1/4 oz,simple syrup,lemon wedge,,,,cocktail glass
+rebel charge,cocktail classics,1 oz,bourbon,1/2 oz,triple sec,1 oz,orange juice,1 oz,lemon juice,1/2 oz,egg white,,,old-fashioned glass
+rattlesnake cocktail,cocktail classics,1 1/2 oz,blended whiskey,1 oz,egg white,1 oz,lemon juice,1/2 oz,powdered sugar,1/4 oz,anis,,,cocktail glass
+ramos fizz,cocktail classics,1/2 oz,juice of a lemon,1 oz,egg white,1 oz,powdered sugar,2 oz,gin,1 oz,light cream,1/2 oz,triple sec,highball glass
+san francisco,cocktail classics,3/4 oz,sloe gin,3/4 oz,sweet vermouth,3/4 oz,dry vermouth,1 oz,bitters,1 oz,orange bitters,,,cocktail glass
+sand-martini cocktail,cocktail classics,1 oz,green chartreuse,1 1/2 oz,sweet vermouth,1 1/2 oz,gin,,,,,1 oz,sake,cocktail glass
+sake martini (sakini),cocktail classics,1 oz,sake,3 oz,gin,,,,,,,,,cocktail glass
+lemon crush,vodka,for glass,"lemon wedge, superfine sugar",1 1/2 oz,citrus-flavored vodka,1/2 oz,crema di limoncello,1/2 oz,triple sec,1 oz,fresh lemon juice,,,cocktail glass
+rye whiskey cocktail,cocktail classics,1 oz,bitters,1 oz,powdered sugar,2 oz,rye whiskey,,,,,,,cocktail glass
+leaves of grass,vodka,1 1/2 oz,aquavit,1/2 oz,old tom gin,1/2 oz,demerara syrup,2 oz,orange bitters,1 oz,absinthe,,celery stick,old-fashioned glass
+widow's dream,cocktail classics,1 1/2 oz,benedictine,1 oz,whole egg,,,,,,,,,cocktail glass
+whiskey flip,cocktail classics,1 oz,whole egg,1 oz,powdered sugar,1 oz,blended whiskey,2 oz,light cream (if desired),,,,,sour glass
+l.a. sunrise,vodka,1 oz,vodka,1 oz,creme de banana,2 oz,fresh orange juice,2 oz,pineapple juice,1/4 oz,dark rum,,"lime wheel, maraschino cherry",hurricane glass
+white rose cocktail,cocktail classics,3/4 oz,gin,1 oz,orange juice,1 oz,juice of a lime,1/2 oz,maraschino,1 oz,egg white,,,cocktail glass
+white plush,cocktail classics,2 oz,blended whiskey,1 oz,milk,1 oz,powdered sugar,,,,,,,collins glass
+white elephant,cocktail classics,1 1/2 oz,gin,1 oz,sweet vermouth,1 oz,egg white,,,,,,,cocktail glass
+whiskey toddy (cold),cocktail classics,1/2 oz,powdered sugar,2 oz,water,2 oz,blended whiskey,,,,,,,mug
+kretchma cocktail,vodka,1 oz,vodka,1 oz,white creme de cacao,1/4 oz,fresh lemon juice,1/4 oz,grenadine,,,,,cocktail glass
+whiskey skin,cocktail classics,1,lump of sugar,,boiling water,2 oz,blended whiskey,,lemon peel,,,,,punch cup
+whiskey milk punch,cocktail classics,1 oz,powdered sugar,2 oz,blended whiskey,8 milk,,,,,,,,collins glass
+katana,vodka,3 oz,cucumber slices,1 1/2 oz,vodka,1/2 oz,sake,3/4 oz,fresh lime juice,3/4 oz,simple syrup,1 oz,cucumber,cocktail glass
+ethel duffy cocktail,brandy,3/4 oz,apricot-flavored brandy,3/4 oz,white creme de menthe,3/4 oz,triple sec,,,,,,,cocktail glass
+daiquiri,cocktail classics,2 oz,light rum,3/4 oz,fresh lime juice,3/4 oz,simple syrup,,,,,,,cocktail glass
+wembley cocktail,cocktail classics,3/4 oz,dry vermouth,1 1/2 oz,gin,1/4 oz,apricot-flavored brandy,1/2 oz,apple brandy,,,,,cocktail glass
+weep-no-more cocktail,cocktail classics,1/2 oz,juice of a lime,3/4 oz,dubonnet,3/4 oz,brandy,1/4 oz,maraschino,,,,,cocktail glass
+jungle juice,vodka,1 oz,vodka,1 oz,light rum,1/2 oz,triple sec,1 oz,"each cranberry juice, orange juice, pineapple juice, lemon juice",1 oz,simple syrup,,"orange wheel, maraschino cherry",collins glass
+wedding belle cocktail,cocktail classics,1 1/2 oz,orange juice,1 1/2 oz,cherry-flavored brandy,3/4 oz,gin,3/4 oz,dubonnet,,,,,cocktail glass
+waterloo,cocktail classics,1 oz,light rum,3 oz,orange juice,1/2 oz,mandarine napoleon liqueur,,,,,,,old-fashioned glass
+waterbury cocktail,cocktail classics,1/2 oz,powdered sugar,1/4 oz,juice of a lemon,1 oz,egg white,1 1/2 oz,brandy,1/2 oz,grenadine,,,cocktail glass
+washington cocktail,cocktail classics,1 1/2 oz,dry vermouth,3/4 oz,brandy,2 oz,bitters,1/2 oz,sugar syrup,,,,,cocktail glass
+the jamaican ten speed,vodka,1 oz,vodka,3/4 oz,melon liqueur,1/4 oz,creme de banana,1/4 oz,coconut-flavored rum,1/2 oz,half-and-half,,,cocktail glass
+twin six cocktail,cocktail classics,1 oz,gin,1/2 oz,sweet vermouth,1/4 oz,grenadine,1 oz,orange juice,1 oz,egg white,,,cocktail glass
+jackie-o,vodka,for glass,"lime wedge, pink sanding sugar",1/2 oz,each citrus-flavored vodka and orange-flavored vodka,1/2 oz,creme de cassis,1 oz,apricot nectar,1/2 oz,each fresh lemon juice and cranberry juice,,"chilled champagne,  orange half-wheel, lime wheel",cocktail glass
+tropical heart,cocktail classics,1 oz,hot shot tropical fruit liqueur,,hot apple cider,,,,,,,,,irish coffee glass
+trois rivieres,cocktail classics,1 1/2 oz,canadian whisky,1 oz,dubonnet,1 1/2 oz,triple sec,,,,,,,old-fashioned glass
+tovarich cocktail,cocktail classics,1 1/2 oz,vodka,3/4 oz,kummel,1/2 oz,juice of a lime,,,,,,,cocktail glass
+italian screwdriver,vodka,for glass,"lime wedge, superfine sugar",1 1/2 oz,citrus-flavored vodka,3 oz,orange juice,2 oz,grapefruit juice,1 oz,ginger ale,,lime wheel,hurricane glass
+t.n.t. cocktail no. 2,cocktail classics,1 oz,tequila,,tonic,,,,,,,,,old-fashioned glass
+t.n.t. cocktail no. 1,cocktail classics,1 1/2 oz,blended whiskey,1 1/2 oz,anis,,,,,,,,,cocktail glass
+ibiza,vodka,1 oz,orange-flavored vodka,1/2 oz,campari,1 oz,grapefruit juice,1 oz,pomegranate molasses,1 oz,peach schnapps,1 oz,"apple schnapps, grapefruit twist",cocktail glass
+thunder,cocktail classics,1 oz,powdered sugar,1 oz,egg yolk,1 1/2 oz,brandy,1 oz,cayenne pepper,,,,,cocktail glass
+huntsman cocktail,vodka,1 1/2 oz,vodka,1/2 oz,jamaica rum,1/2 oz,fresh lime juice,1/2 oz,simple syrup,,,,,cocktail glass
+tequila fizz,cocktail classics,2 oz,tequila,3/4 oz,grenadine,1 oz,lemon juice,1 oz,egg white,,,,,collins glass
+humpty dumpty,vodka,2 oz,vodka,1 oz,orange juice,1/2 oz,galliano,1 oz,whole egg,3 oz,peychaud's bitters,,,cocktail glass
+tequila cocktail,cocktail classics,2 oz,tequila,1/2 oz,juice of a lemon,4 oz,grenadine,1 oz,egg white,,,,,cocktail glass
+temptation cocktail,cocktail classics,1 1/2 oz,blended whiskey,1/2 oz,triple sec,1/2 oz,anis,1/2 oz,dubonnet,,,,,cocktail glass
+tchoupitolas street guzzle,cocktail classics,1 oz,light rum,,ginger beer,,,,,,,,,highball glass
+tahitian tea,cocktail classics,1/2 oz,gin,1/2 oz,light rum,1/2 oz,vodka,1/2 oz,hot shot tropical fruit liqueur,1 oz,7-up,1 oz,each cranberry juice and orange juice,highball glass
+limey,cocktail classics,1 oz,light rum,1 oz,lime liqueur,1/2 oz,triple sec,2 oz,lime juice,,,,,champagne flute
+headless horseman,vodka,2 oz,vodka,3 oz,angostura bitters,,ginger ale,orange wheel,,,,,,collins glass
+love cocktail,cocktail classics,2 oz,sloe gin,1 oz,egg white,1/2 oz,lemon juice,1/2 oz,raspberry juice,,,,,cocktail glass
+los angeles cocktail,cocktail classics,1/2 oz,juice of a lemon,1 oz,powdered sugar,1 oz,whole egg,1/4 oz,sweet vermouth,1 1/2 oz,blended whiskey,,,sour glass
+long island tea,cocktail classics,1/2 oz,vodka,1/2 oz,gin,1/2 oz,light rum,1/2 oz,tequila,1/2 oz,juice of a lemon,cola,,highball glass
+harvey wallbanger,vodka,1 oz,vodka,4 oz,fresh orange juice,1/2 oz,galliano,,,,,,,collins glass
+lime giant,cocktail classics,2 oz,lime vodka,,lemon-lime soda,,,,,,,,,collins glass
+lil naue,cocktail classics,1 oz,brandy,1/2 oz,port,1/2 oz,apricot-flavored brandy,1 oz,powdered sugar,1 oz,egg yolk,,,red-wine glass
+harrington,vodka,1 1/2 oz,vodka,1/4 oz,triple sec,1 oz,green chartreuse,orange zest,,,,,,cocktail glass
+el profesor,brandy,1 oz,pisco,1/2 oz,punt e mes,1/2 oz,benedictine,2 oz,aromatic bitters,,lemon twist,,,old-fashioned glass
+leap year cocktail,cocktail classics,1 1/4 oz,gin,1/2 oz,orange flavored gin,1/2 oz,sweet vermouth,1/4 oz,lemon juice,,,,,cocktail glass
+lasky cocktail,cocktail classics,3/4 oz,grape juice,3/4 oz,swedish punch,3/4 oz,gin,,,,,,,cocktail glass
+lady love fizz,cocktail classics,1 oz,powdered sugar,1/2 oz,juice of a lemon,1 oz,egg white,2 oz,gin,2 oz,light cream,,,cocktail glass
+handball cooler,vodka,1 1/2 oz,vodka,,soda water,1/2 oz,orange juice,lime wedge,,,,,,highball glass
+hyatt's jamaican banana,cocktail classics,1/2 oz,light rum,1/2 oz,white creme de cacao,1/2 oz,creme de banana,2 oz,vanilla ice cream,1 oz,half-and-half,1 oz,banana,brandy snifter
+h.p.w. cocktail,cocktail classics,1 1/2 oz,dry vermouth,1 1/2 oz,sweet vermouth,1 1/2 oz,gin,,,,,,,cocktail glass
+hot shot margarita,cocktail classics,2 oz,tequila,1 oz,hot shot tropical fruit liqueur,1 1/2 oz,lemon or lime juice,,,,,,,cocktail glass
+the groupie,vodka,3 oz,lemon wedges,1/2 oz,superfine sugar,2 oz,citrus-flavored vodka,ginger beer,,,,,,old-fashioned glass
+hot brandy flip,cocktail classics,1,whole egg,1 oz,powdered sugar,1 1/2 oz,brandy,hot milk,,,,,,mug
+grape nehi,vodka,1 oz,vodka,1 oz,raspberry-flavored liqueur,1 oz,fresh lemon juice,,,,,,,cocktail glass
+hole-in-one cocktai,cocktail classics,1 3/4 oz,scotch,3/4 oz,vermouth,1/4 oz,lemon juice,1 oz,orange bitters,,,,,cocktail glass
+grapefruit gimlet royale,vodka,1 1/2 oz,vodka,1 oz,fresh grapefruit juice,1/4 oz,fresh lime juice,1/4 oz,simple syrup,2 oz,chilled champagne,,,cocktail glass
+hair raiser,cocktail classics,1 1/2 oz,100-proof vodka,1/2 oz,rock and rye,1 oz,lemon juice,,,,,,,cocktail glass
+godmother,vodka,1 1/2 oz,vodka,3/4 oz,amaretto,,,,,,,,,old-fashioned glass
+green opal,cocktail classics,1/2 oz,gin,1/2 oz,anisette,1 oz,anis,,,,,,,cocktail glass
+green hornet (dry),cocktail classics,2 oz,lime vodka,,lemon-lime soda,,,,,,,1 oz,powdered sugar,collins glass
+green fizz,cocktail classics,1 oz,powdered sugar,1 oz,egg white,1/2 oz,juice of a lemon,2 oz,gin,1 oz,green creme de menthe,,,highball glass
+godchild,vodka,1 oz,vodka,1 oz,amaretto,1 oz,heavy cream,,,,,,,cocktail glass
+grape vodka froth,cocktail classics,1 1/2 oz,vodka,1 oz,grape juice,1 oz,egg white,1 oz,lemon juice,,,,,old-fashioned glass
+grapefruit nog,cocktail classics,1 1/2 oz,brandy,1/2 oz,grapefruit juice,1 oz,lemon juice,1 oz,honey,1 oz,whole egg,,,collins glass
+golden slipper,cocktail classics,3/4 oz,yellow chartreuse,2 oz,apricot-flavored brandy,,,,,,,,,cocktail glass
+golden freindship,cocktail classics,,amaretto,,sweet vermouth,,light rum,,,,,,,collins glass
+golden frappe,cocktail classics,1 oz,orange juice,2 oz,lemon juice,1 oz,sugar,1 oz,port,,,,,collins glass
+glass tower,vodka,1 oz,vodka,1 oz,peach schnapps,1 oz,white rum,1 oz,triple sec,1/2 oz,sambuca,,"lime soda, orange wheel, maraschino cherry",collins glass
+golden fizz,cocktail classics,1/2 oz,juice of a lemon,1/2 oz,powdered sugar,1 1/2 oz,gin,1 oz,egg yolk,,,,,highball glass
+gloom lifter,cocktail classics,1 oz,blended whiskey,1/2 oz,brandy,1/2 oz,juice of a lemon,1 oz,raspberry syrup,1/2 oz,sugar,1/2 oz,egg white,highball glass
+glogg,cocktail classics,2 750-ml,"wine (port, cream sherry, claret, burgundy, or madeira)",2 oz,dried orange peel,2 oz,cinnamon sticks,20 cardamom seeds,,25,cloves,,,punch cup
+georgia peach,vodka,1 1/2 oz,vodka,1/2 oz,peach schnapps,1 oz,grenadine,lemonade,,,,,,collins glass
+georgia mule,vodka,1 oz,"peach slice, skinned",1 1/2 oz,vodka,1/2 oz,fresh lemon juice,2 oz,peach bitters,,ginger beer,,peach slice,collins glass
+gentle ben,vodka,1 oz,vodka,1 oz,gin,1 oz,blanco tequila,orange juice,,,"orange wheel, maraschino cherry",,,collins glass
+east india cocktail no. 1,brandy,1 1/2 oz,brandy,1/2 oz,jamaica rum,1/2 oz,triple sec,1/2 oz,pineapple juice,1 oz,angostura bitters,,"lemon twist, maraschino cherry",cocktail glass
+general harrison's eggnog,cocktail classics,1 oz,whole egg,1 oz,powdered sugar,,red wine,,,,,,,collins glass
+gables collins,vodka,1 1/2 oz,vodka,1 oz,creme de noyaux,1/2 oz,fresh lemon juice,1/2 oz,pineapple juice,,soda water,,"lemon wheel, pineapple chunk",collins glass
+frozen brandy and rum,cocktail classics,1 1/2 oz,brandy,1 oz,light rum,1 oz,lemon juice,1 oz,egg yolk,1 oz,powdered sugar,,,old-fashioned glass
+frozen apple,cocktail classics,1 1/2 oz,applejack,1 oz,lime juice,1 oz,sugar,1/2 oz,egg white,,,,,old-fashioned glass
+frisky witch,vodka,1 oz,vodka,1 oz,sambuca,,black licorice stick,,,,,,,old-fashioned glass
+froth blower cocktail,cocktail classics,1 oz,egg white,2 oz,gin,1 oz,grenadine,,,,,,,cocktail glass
+french martini,vodka,1 1/2 oz,vodka,3/4 oz,black raspberry liqueur,3/4 oz,pineapple juice,,,,,,,cocktail glass
+flatiron martini,vodka,1 oz,splash triple sec,1 1/2 oz,orange-flavored vodka,1 1/2 oz,lillet blanc,orange wheel,,,,,,cocktail glass
+favourite cocktail,cocktail classics,3/4 oz,apricot-flavored brandy,3/4 oz,dry vermouth,3/4 oz,lemon juice,1/4 oz,gin,,,,,cocktail glass
+electric jam,vodka,1 1/4 oz,vodka,1/2 oz,blue curacao,1 oz,simple syrup,1 oz,fresh lemon juice,,lime soda,,,collins glass
+fairy belle cocktail,cocktail classics,1 oz,egg white,1 oz,grenadine,3/4 oz,apricot-flavored brandy,1 1/2 oz,gin,,,,,cocktail glass
+duke cocktail,cocktail classics,1/2 oz,triple sec,1 oz,orange juice,2 oz,lemon juice,1/2 oz,maraschino,1 oz,whole egg,,chilled champagne,champagne flute
+dreamy dorini smoking martini,vodka,2 oz,vodka,1/2 oz,"smoky scotch, such as laphroaig",4 oz,pastis,lemon twist,,,,,,cocktail glass
+dubonnet highball,cocktail classics,2 oz,dubonnet,,ginger ale,,carbonated water,twist of lemon,,,,,,highball glass
+dubonnet fizz,cocktail classics,1/2 oz,juice of orange,1/4 oz,juice of a lemon,1 oz,cherry-flavored brandy,2 oz,dubonnet,,,,,highball glass
+dubonnet cocktail,cocktail classics,1 1/2 oz,dubonnet,3/4 oz,gin,1 oz,orange bitters (if desired),,,,,,,cocktail glass
+doctor cook,cocktail classics,3/4 oz,gin,1 oz,lemon juice,1 oz,maraschino,1 oz,egg white,,,,,red-wine glass
+desert sunrise,vodka,1 1/4 oz,vodka,1 1/2 oz,fresh orange juice,1 1/2 oz,pineapple juice,1 oz,grenadine,,,,,collins glass
+dillatini,cocktail classics,1 1/2 oz,gin,3/4 oz,dry vermouth,,,,,,,,,cocktail glass
+devil's cocktail,cocktail classics,1/2 oz,lemon juice,1 1/2 oz,port,1 1/2 oz,dry vermouth,,,,,,,cocktail glass
+derby fizz,cocktail classics,1/2 oz,juice of a lemon,1 oz,powdered sugar,1,whole egg,2 oz,scotch,1 oz,triple sec,,,highball glass
+cubeltini,vodka,3 oz,cucumber slices,5,fresh mint leaves,1 1/2 oz,simple syrup,2 oz,vodka,1 oz,fresh lime juice,,fresh mint sprig,cocktail glass
+crocodile cooler,vodka,1 1/2 oz,citrus-flavored vodka,1 oz,melon liqueur,3/4 oz,triple sec,3/4 oz,simple syrup,1 oz,fresh lemon juice,,"lime soda, pineapple wedge, maraschino cherry or lime wheel",hurricane glass
+cosmopolitan,vodka,1 1/2 oz,vodka,1/2 oz,fresh lime juice,1/2 oz,triple sec,1/2 oz,cranberry juice,,lime wheel,,,cocktail glass
+dream cocktail,brandy,1 1/2 oz,brandy,3/4 oz,triple sec,1 oz,anisette,,,,,,,cocktail glass
+jean lafitte cocktail,cocktail classics,1 oz,gin,1/2 oz,triple sec,1/2 oz,anis,1 oz,powdered sugar,1 oz,egg yolk,,,cocktail glass
+japanese fizz,cocktail classics,1/2 oz,juice of a lemon,1 oz,powdered sugar,1 1/2 oz,blended whiskey,1 oz,port,1 oz,egg white,,,highball glass
+citronella cooler,vodka,1 oz,citrus-flavored vodka,1 oz,fresh lime juice,2 oz,lemonade,1 oz,cranberry juice,,lime wedge,,,collins glass
+north pole cocktail,cocktail classics,1 oz,egg white,1/2 oz,lemon juice,1/2 oz,maraschino,1 oz,gin,,,,,cocktail glass
+the cinquecento,vodka,1 1/2 oz,bison grass vodka (zubrowka),1/2 oz,benedictine,1/2 oz,campari,3/4 oz,fresh grapefruit juice,1 oz,angostura bitters,,grapefruit twist,cocktail glass
+new orleans gin fizz,cocktail classics,1/2 oz,juice of a lemon,1/2 oz,juice of a lime,1 oz,powdered sugar,1 oz,egg white,2 oz,gin,1 oz,"light cream, 1/2 oz",highball glass
+napoleon,cocktail classics,2 oz,gin,1/2 oz,curacao,1/2 oz,dubonnet,,,,,,,cocktail glass
+zombie,rum - daiquiris,1 oz,gold rum,1 oz,151-proof rum,1 oz,light rum,1 oz,"each fresh lime juice, lemon juice, pineapple juie, and passion fruit syrup",2 oz,demerara syrup,1 oz,tiki (such as bittermen's 'elemakule) or angostura bitters (optional) garnish: fresh mint sprig,collins glass
+kiss the boys goodbye,cocktail classics,3/4 oz,sloe gin,3/4 oz,brandy,1/2 oz,egg white,1 oz,juice of a lemon,,,,,cocktail glass
+x.y.z. cocktail,rum - daiquiris,1 oz,light rum,1/2 oz,triple sec,1/2 oz,fresh lemon juice,,,,,,,cocktail glass
+k.g.b. cocktail,cocktail classics,1/2 oz,kummel,1 1/2 oz,gin,1/4 oz,apricot-flavored brandy,1/4 oz,lemon juice,,,,,cocktail glass
+eye-opener,cocktail classics,1 oz,egg yolk,1/2 oz,powdered sugar,1 oz,anis,1 oz,triple sec,1 oz,white creme de cacao,2 oz,light rum,sour glass
+wiki waki woo,rum - daiquiris,1/2 oz,light rum,1/2 oz,151-proof rum,1/2 oz,"each vodka, tequila blanco, triple sec",1 oz,amaretto,1 oz,"each fresh orange juice, pineapple juice, cranberry juice",,"orange wheel, maraschino cherry",hurricane glass
+elk's own cocktail,cocktail classics,1 oz,egg white,1 1/2 oz,blended whiskey,3/4 oz,port,1/4 oz,juice of a lemon,1 oz,powdered sugar,,,cocktail glass
+eggnog supreme,cocktail classics,1 oz,medium eggs,1 oz,sugar,1 1/2 oz,whole milk,1 oz,"heavy cream, whipped",1 750-ml,cognac,,powdered nutmeg,punch cup
+egg sour,cocktail classics,1 oz,whole egg,1 oz,powdered sugar,1/2 oz,juice of a lemon,2 oz,brandy,1/4 oz,triple sec,,,old-fashioned glass
+white lion cocktail,cocktail classics,1 1/2 oz,light rum,1 oz,fresh lemon juice,1/2 oz,simple syrup,1 oz,grenadine,2 oz,angostura bitters,,,cocktail glass
+white lily cocktail,rum - daiquiris,3/4 oz,light rum,3/4 oz,triple sec,3/4 oz,gin,1 oz,anisette,,,,,cocktail glass
+ice cream flip,rum - daiquiris,1 oz,whole egg,1 oz,maraschino,1 oz,triple sec,1 small vanilla ice cream,,,,,,sour glass
+outrigger,cocktail classics,1 oz,peach-flavored brandy,1 oz,lime vodka,1 oz,pineapple juice,,,,,,,old-fashioned glass
+opera cocktail,cocktail classics,1 oz,maraschino,1/2 oz,dubonnet,1 1/2 oz,gin,,,,,,,cocktail glass
+virginia dare,rum - daiquiris,2 oz,ripe pear,2 oz,dark rum,1/2 oz,benedictine,2 oz,angostura bitters,,,,,cocktail glass
+opening cocktail,cocktail classics,1/2 oz,grenadine,1/2 oz,sweet vermouth,1 1/2 oz,blended whiskey,,,,,,,cocktail glass
+queen bee,cocktail classics,1 1/2 oz,lime vodka,1 oz,coffee-flavored brandy,1/2 oz,cream sherry,,,,,,,cocktail glass
+van vleet,rum - daiquiris,3 oz,light rum,1 oz,maple syrup,1 oz,fresh lemon juice,,,,,,,old-fashioned glass
+zaza cocktail,cocktail classics,1 1/2 oz,gin,3/4 oz,dubonnet,,,,,,,,,cocktail glass
+the vacation cocktail,rum - daiquiris,1 oz,peeled and chopped fresh ginger,3/4 oz,fresh lime juice,1/2 oz,"each simple syrup, light rum, dark rum",1 oz,mango juice,1/2 oz,"each cranberry juice, orange juice, spiced rum",,mango slice,cocktail glass
+dolores,brandy,1 oz,"brandy, preferably spanish",1 oz,cherry liqueur,1 oz,white or dark creme de cacao,1 oz,egg white,,freshly grated nutmeg,,,champagne flute
+vesuvio,cocktail classics,1 oz,light rum,1/2 oz,juice of a lemon,1 oz,powdered sugar,1/2 oz,egg white,1/2 oz,sweet vermouth,,,old-fashioned glass
+urban anxiety,rum,1 oz,cachaca,1 oz,sweet vermouth,3/4 oz,cynar,2 oz,angostura bitters,,"grapefruit twist, flamed",,,cocktail glass
+virgin,cocktail classics,1 oz,gin,1/2 oz,white creme de menthe,1 oz,forbidden fruit,,,,,,,cocktail glass
+tropica cocktail,rum - daiquiris,2 oz,light rum,3 oz,pineapple juice,1 oz,fresh grapefruit juice,1 oz,grenadine,,pineapple wedge,,,collins glass
+vermouth cassis,cocktail classics,3/4 oz,creme de cassis,1 1/2 oz,dry vermouth,,,,,,,,,highball glass
+verboten,cocktail classics,1 1/2 oz,gin,1 oz,forbidden fruit,1 oz,orange juice,1 oz,lemon juice,,,,,cocktail glass
+velvet hammer no. 2,cocktail classics,1 1/2 oz,strega,1 oz,white creme de cacao,1 oz,light cream,,,,,,,cocktail glass
+velvet hammer no. 1,cocktail classics,1 1/2 oz,vodka,1 oz,creme de cacao,1 oz,light cream,,,,,,,cocktail glass
+ulanda cocktail,cocktail classics,1 1/2 oz,gin,3/4 oz,triple sec,1/4 oz,anis,,,,,,,cocktail glass
+torridora cocktail,rum - daiquiris,1 1/2 oz,light rum,1/2 oz,coffee-flavored brandy,1 1/2 oz,half-and-half,1 oz,151-proof rum,,,,,cocktail glass
+boston sour,cocktail classics,1/2 oz,juice of a lemon,1 oz,powdered sugar,2 oz,blended whiskey,1 oz,egg white,,,,,sour glass
+three miller cocktail,rum - daiquiris,3 oz,fresh cherry tomatoes,2 oz,dark rum,1 oz,fresh lime juice,1 oz,simple syrup,1 oz,angostura bitters,,,cocktail glass
+bird-of-paradise fizz,cocktail classics,1/2 oz,juice of a lemon,1 oz,powdered sugar,1 oz,egg white,1 oz,grenadine,2 oz,gin,,,highball glass
+biffy cocktail,cocktail classics,1/2 oz,juice of a lemon,1 oz,swedish punch,1 1/2 oz,gin,,,,,,,cocktail glass
+between-the-sheets cocktail,cocktail classics,1/4 oz,juice of a lemon,1/2 oz,brandy,1/2 oz,triple sec,1/2 oz,light rum,,,,,cocktail glass
+third-rail cocktail,rum - daiquiris,3/4 oz,light rum,3/4 oz,apple brandy,3/4 oz,brandy,1/4 oz,anisette,,,,,cocktail glass
+bentley,cocktail classics,1 1/2 oz,apple brandy,1 oz,dubonnet,,,,,,,,,cocktail glass
+tahiti club,rum - daiquiris,2 oz,light rum,1/2 oz,fresh lemon juice,1/2 oz,fresh lime juice,1/2 oz,pineapple juice,1/4 oz,maraschino liqueur,,lemon wheel,old-fashioned glass
+barton special,cocktail classics,1/2 oz,applejack,1/4 oz,scotch,1/4 oz,gin,,,,,,,old-fashioned glass
+barnaby's buffalo blizzard,cocktail classics,1 oz,white creme de cacao,3/4 oz,vodka,1 oz,galliano,vanilla ice cream,,1 oz,grenadine,,whipped cream and 3/4 oz,collins glass
+susie taylor,rum - daiquiris,2 oz,light rum,1/2 oz,fresh lime juice,,ginger ale,,,,,,,collins glass
+baltimore bracer,cocktail classics,1 oz,anisette,1 oz,brandy,1 oz,egg white,,,,,,,cocktail glass
+bachelor's bait cocktail,cocktail classics,1 1/2 oz,gin,1 oz,egg white,1 oz,orange bitters,1/2 oz,grenadine,,,,,cocktail glass
+bushranger,cocktail classics,1 1/2 oz,light rum,1 oz,dubonnet,1 oz,bitters,,,,,,,cocktail glass
+sunset at gowanus,rum - daiquiris,2 oz,dark rum,3/4 oz,fresh lime juice,1/2 oz,maple syrup,1/4 oz,brandy,1/4 oz,yellow chartreuse,,,cocktail glass
+bulldog highballl,cocktail classics,1/2 oz,juice of orange,2 oz,gin,,,,,,,,,highball glass
+bucks fizz (mimosa),cocktail classics,2 oz,orange juice,,chilled champagne,,,,,,,,,collins glass
+buckjones,cocktail classics,1 1/2 oz,light rum,1 oz,sweet sherry,1/2 oz,juice of a lime,,,,,,,highball glass
+stormy colada,rum - daiquiris,2 oz,dark rum,2 oz,pineapple juice,,ginger beer,"skewered pineapple wedge, mint sprig, candied ginger slice",,,,,,highball glass
+bronx silver cocktail,cocktail classics,1/2 oz,juice of orange,1 oz,egg white,1/2 oz,dry vermouth,1 oz,gin,,,,,sour glass
+bronx golden cocktail,cocktail classics,1 oz,gin,1/2 oz,sweet vermouth,1/2 oz,dry vermouth,1/4 oz,orange,,,,,sour glass
+stone wall,rum - daiquiris,3 slices,thin peeled fresh ginger,3/4 oz,demerara syrup,1 1/2 oz,fresh apple cider,1 1/2 oz,light rum,,jamaican ginger beer,,"green apple slice, lime wedge",old-fashioned glass
+depth bomb,brandy,1 oz,apple brandy,1 oz,brandy,1 oz,fresh lemon juice,1 oz,grenadine,,,,,old-fashioned glass
+stone cocktail,rum - daiquiris,1 oz,dry sherry,1/2 oz,light rum,1/2 oz,sweet vermouth,,,,,,,cocktail glass
+almeria,cocktail classics,1 1/2 oz,17-year-old j. wray and nephew ltd. rum,1 oz,coffee-flavored liqueur,1 oz,egg white,,,,,,,cocktail glass
+aunt jemima,cocktail classics,1/2 oz,brandy,1/2 oz,white creme de cacao,1/2 oz,benedictine,,,,,,,pousse-cafe_ glass
+spanish town cocktail,rum - daiquiris,2 oz,light rum,1/2 oz,triple sec,,,,,,,,,cocktail glass
+apricot lady,cocktail classics,1 1/4 oz,light rum,1 oz,apricot-flavored brandy,1/4 oz,triple sec,1 oz,lime juice,1 oz,egg white,,,old-fashioned glass
+apricot anise collins,cocktail classics,1 1/2 oz,gin,1/2 oz,apricot-flavored brandy,1 1/2 oz,anisette,1 oz,lemon juice,,,,,collins glass
+apple rum rickey,cocktail classics,3/4 oz,applejack,3/4 oz,light rum,1/4 oz,lime,,,,,,,highball glass
+sloppy joe's cocktail no. 1,rum - daiquiris,3/4 oz,light rum,3/4 oz,dry vermouth,1/2 oz,triple sec,1 oz,fresh lime juice,1/2 oz,grenadine,,,cocktail glass
+applejack punch,cocktail classics,1 3/4 oz,applejack,4 oz,grenadine,16 oz,orange juice,64 ginger ale,,,,1 oz,whole egg,punch cup
+brandy flip,cocktail classics,1,whole egg,1 oz,powdered sugar,1 1/2 oz,brandy,2 oz,light cream (if desired),,,,,sour glass
+sir walter cocktail,rum - daiquiris,3/4 oz,light rum,3/4 oz,brandy,1 oz,grenadine,1 oz,triple sec,1 oz,fresh lemon juice,,,cocktail glass
+saxon cocktail,rum - daiquiris,1 3/4 oz,light rum,1/2 oz,fresh lime juice,1/2 oz,grenadine,orange twist,,,,,,cocktail glass
+boston bullet,cocktail classics,1 1/2 oz,gin,3/4 oz,dry vermouth,,,,,,,,,cocktail glass
+sargasso,rum - daiquiris,2 oz,aged rhum agricole,3/4 oz,dry sherry,1/2 oz,aperol,2 oz,angostura bitters,,orange twist,,,cocktail glass
+santiago cocktail,rum - daiquiris,1 1/2 oz,light rum,1 oz,fresh lime juice,1/2 oz,simple syrup,1/2 oz,grenadine,,,,,cocktail glass
+black velvet,cocktail classics,5 oz,chilled stout,5 oz,chilled champagne,,,,,,,,,champagne flute
+saint lucy bracer,rum - daiquiris,2 oz,dark rum,1/2 oz,butterscotch schnapps,1/2 oz,sweet vermouth,2 oz,angostura bitters,,"edible flower, such as nasturtium",,,cocktail glass
+applecar,cocktail classics,1 oz,applejack,1 oz,triple sec,1 oz,lemon juice,,,,,,,cocktail glass
+apple blow fizz,cocktail classics,1 oz,egg white,1/2 oz,juice of a lemon,1 oz,powdered sugar,2 oz,apple brandy,,,,,highball glass
+antoine special,cocktail classics,1 1/2 oz,dubonnet,1 1/2 oz,dry vermouth,,,,,,,,,red-wine glass
+ante,cocktail classics,1 oz,apple brandy,1/2 oz,triple sec,1 oz,dubonnet,,,,,,,cocktail glass
+s & v,rum - daiquiris,1 1/2 oz,light rum,1/2 oz,creole shrubb (rum-based orange liqueur),1/2 oz,ruby port,1/2 oz,fresh lime juice,,lime wheel,,,cocktail glass
+rum toddy (cold),rum - daiquiris,2 oz,light or dark rum,1/2 oz,water,1 oz,simple syrup,lemon twist,,,,1/2 oz,brandy,old-fashioned glass
+deauville cocktail,brandy,1/2 oz,brandy,1/2 oz,apple brandy,1/2 oz,triple sec,1/2 oz,fresh lemon juice,,,1 oz,dry vermouth,cocktail glass
+allies cocktail,cocktail classics,1 oz,dry vermouth,1 oz,gin,1/2 oz,kummel,,,,,,,cocktail glass
+rum swizzle,rum - daiquiris,2 oz,light or dark rum,1 oz,fresh lime juice,1/2 oz,simple syrup,2 oz,angostura bitters,,soda water,,,collins glass
+a. j.,cocktail classics,1 1/2 oz,applejack,1 oz,grapefruit juice,,,,,,,,,cocktail glass
+after supper cocktail,cocktail classics,1 oz,apricot-flavored brandy,1 oz,triple sec,1/2 oz,lemon juice,,,,,,,cocktail glass
+rum sour,rum - daiquiris,2 oz,light rum,3/4 oz,fresh lemon juice,3/4 oz,simple syrup,"lemon half-wheel, maraschino cherry",,,,,,cordial or pony glass
+acapulco,cocktail classics,1 1/2 oz,light rum,1 oz,lime juice,1 1/2 oz,triple sec,1 oz,sugar,1,egg white,,,old-fashioned glass
+absinthe drip cocktail,cocktail classics,1 1/2 oz,anis,1 oz,sugar,,,,,,,,,old-fashioned glass
+ambrosia,cocktail classics,1 oz,applejack,1 oz,brandy,1 oz,triple sec,1 juice of a lemon,,,chilled champagne,,,highball glass
+rum screwdriver,rum - daiquiris,1 1/2 oz,light rum,5 oz,orange juice,,,,,,,,,highball glass
+rum rickey,rum - daiquiris,1 1/2 oz,light rum,1/2 oz,fresh lime juice,,soda water,lime wedge,,,,,,highball glass
+scotch cocktail,cocktail classics,1/2 oz,old mr. boston creme de menthe (white),1 1/2 oz,desmond & duff scotch whisky,,,,,,,,,cocktail glass
+rum relaxer,rum - daiquiris,1 1/2 oz,light rum,1 oz,pineapple juice,1/2 oz,grenadine,lemon-lime soda,,,"orange wheel, maraschino cherry",,,hurricane glass
+rum old-fashioned,rum - daiquiris,1 1/2 oz,light rum,1 oz,151-proof rum,1 oz,simple syrup,1 oz,angostura bitters,,lemon twist,,,old-fashioned glass
+rum martini,rum - daiquiris,2 oz,light rum,1 oz,dry vermouth,,lemon twist,,,,,,,cocktail glass
+rum highball,rum - daiquiris,2 oz,light or dark rum,,ginger ale or soda water,,lemon twist,,,,,,,highball glass
+rum fix,rum - daiquiris,2 1/2 oz,light rum,1 oz,fresh lemon or lime juice,1/2 oz,simple syrup,lemon wheel,,,,,,highball glass
+rum daisy,rum - daiquiris,2 oz,light rum,1/2 oz,fresh lemon juice,1 oz,simple syrup,1 oz,grenadine,,fresh seasonal fruit,,,beer mug
+d'artagnan,brandy,1 oz,armagnac,1 oz,grand marnier,1 oz,simple syrup,1/2 oz,orange juice,3 oz,chilled champagne,,orange zest,champagne flute
+rum cooler,rum - daiquiris,2 oz,light rum,1/2 oz,simple syrup,2 oz,soda water,soda water or ginger ale,,,orange and/or lemon zest,,,collins glass
+rum collins,rum - daiquiris,2 oz,light rum,1 oz,fresh lime juice,1/2 oz,simple syrup,soda water,,,"lemon wheel, maraschino cherry",,,collins glass
+seaboabd,cocktail classics,1 oz,old mr. boston blended whiskey,1 oz,old mr. boston dry gin,1 oz,lemon juice,1 oz,powdered sugar,,,,,old-fashioned glass
+rum cobbler,rum - daiquiris,2 oz,light rum,1/4 oz,simple syrup,,soda water,generous amount of fresh seasonal fruit,,,,,,red-wine glass
+robson cocktail,rum - daiquiris,1 1/2 oz,jamaica rum,1/2 oz,fresh lemon juice,1/2 oz,fresh orange juice,1/4 oz,grenadine,,,,,cocktail glass
+rio fix,rum - daiquiris,2 oz,absinthe or pastis,1 1/2 oz,cachaca,1/2 oz,maraschino liqueur,3/4 oz,fresh lime juice,1/2 oz,pineapple juice,,,champagne flute
+ringo starr,rum - daiquiris,3 oz,red grapes,1/2 oz,lemon,6,fresh mint leaves,1 oz,sugar cube,2 oz,african rum,,,old-fashioned glass
+restless native,rum - daiquiris,2 oz,coconut rum,3/4 oz,white creme de cacao,1 1/2 oz,fresh lime juice,lime zest spiral,,,,1 1/2 oz,light rum,cocktail glass
+quarter deck cocktail,rum - daiquiris,1 1/2 oz,light rum,1/2 oz,cream sherry,1/2 oz,fresh lime juice,,,,,,,cocktail glass
+quaker's cocktail,rum - daiquiris,3/4 oz,light rum,3/4 oz,brandy,1/2 oz,fresh lemon juice,1/4 oz,raspberry syrup,,,,,cocktail glass
+puerto rican rum daisy,rum - daiquiris,1 1/2 oz,dark rum,1/4 oz,orange curacao,3/4 oz,fresh lemon juice,1/2 oz,each orange juice and simple syrup,1 oz,angostura bitters,,"freshly grated nutmeg, orange wheel",cocktail glass
+cuban cocktail no. 2,brandy,1 1/2 oz,brandy,1/2 oz,light rum,1/2 oz,apricot-flavored brandy,1/2 oz,fresh lime juice,,,,,cocktail glass
+prohibition punch,rum - daiquiris,1 1/2 oz,dark rum,3/4 oz,grand marnier,1 oz,passion fruit juice,1 oz,cranberry juice,1/4 oz,fresh lemon juice,2 oz,champagne,brandy snifter
+prairie oyster cocktail,cocktail classics,1 oz,old mr. boston five star brandy,1 oz,worcestershire sauce,1 oz,tomato catsup,1 oz,vinegar,1 oz,pepper,1 oz,"egg yolk, 1 oz",old-fashioned glass
+poker cocktail,rum - daiquiris,1 1/2 oz,light rum,1 1/2 oz,sweet vermouth,,,,,,,,,cocktail glass
+planter's punch no. 2,rum - daiquiris,2 oz,light rum,2 oz,orange juice,1 oz,"each fresh lime juice, jamaica rum, grenadine",1/2 oz,pineapple juice,1/4 oz,"each fresh lemon juice, triple sec",,"lemon, orange, and pineapple slices; maraschino cherry; fresh mint sprig dipped in sugar",collins glass
+planter's punch no. 1,rum - daiquiris,2 1/2 oz,light rum,2 oz,fresh lime juice,1/2 oz,simple syrup,2 oz,soda water,1 oz,grenadine,,"lemon, orange, and pineapple slices; maraschino cherry",collins glass
+planter's cocktail,rum - daiquiris,1 1/2 oz,jamaica rum,1/2 oz,fresh lemon juice,1 oz,simple syrup,,,,,,,cocktail glass
+pink paradise,rum - daiquiris,1 1/2 oz,coconut-flavored rum,1 oz,amaretto,3 oz,cranberry juice,1 1/2 oz,pineapple juice,,"pineapple wedge, maraschino cherry",,,hurricane glass
+pink creole,rum - daiquiris,1 1/2 oz,light rum,1/2 oz,fresh lime juice,1/4 oz,grenadine,1/4 oz,half-and-half,,rum-soaked black cherry,,,cocktail glass
+pineapple fizz,rum - daiquiris,2 oz,light rum,1 oz,pineapple juice,1 oz,simple syrup,soda water,,,,,,highball glass
+pineapple cocktail,rum - daiquiris,1 1/2 oz,light rum,3/4 oz,pineapple juice,1/2 oz,fresh lemon juice,,,,,,,cocktail glass
+pearl button,rum - daiquiris,2 oz,cachaca (brazilian rum),3/4 oz,lillet blanc,1/2 oz,fresh lime juice,lemon-lime soda,,,"pineapple wedge, maraschino cherry",,,collins glass
+the crux,brandy,3/4 oz,dubonnet,3/4 oz,triple sec,3/4 oz,brandy,3/4 oz,fresh lemon juice,,orange twist,,,cocktail glass
+paris when it sizzles,rum - daiquiris,3/4 oz,elderflower liqueur,2 oz,dark rum,1/2 oz,fresh lime juice,1 oz,angostura bitters,,lime wedge,,,cocktail glass
+palmetto cocktail,rum - daiquiris,1 1/2 oz,light rum,1 1/2 oz,dry vermouth,2 oz,angostura bitters,,,,,,,cocktail glass
+paddington,rum - daiquiris,1 oz,absinthe,1 1/2 oz,light rum,1/2 oz,lillet blanc,1/2 oz,fresh grapefruit juice,1/2 oz,fresh lemon juice,1 oz,"orange marmalade, grapefruit twist",cocktail glass
+the old cuban,rum - daiquiris,6 fresh,mint leaves,1 oz,simple syrup,3/4 oz,fresh lime juice,1 1/2 oz,dark rum,2 oz,angostura bitters,2 oz,"champagne, chopped fresh mint",cocktail glass
+"oh, gosh!",rum - daiquiris,1 1/2 oz,light rum,1 1/2 oz,triple sec,1 oz,fresh lime juice,lemon twist,,,,,,cocktail glass
+night cap,rum - daiquiris,2 oz,light rum,1/2 oz,simple syrup,,warm milk,freshly grated nutmeg,,,,,,irish coffee glass
+new orleans buck,rum - daiquiris,1 1/2 oz,light rum,1 oz,fresh orange juice,1/2 oz,fresh lemon juice,ginger ale,,,,,,collins glass
+nevada cocktail,rum - daiquiris,1 1/2 oz,light rum,1 oz,grapefruit juice,3/4 oz,fresh lime juice,3/4 oz,simple syrup,1 oz,angostura bitters,,,cocktail glass
+moonquake shake,rum - daiquiris,1 1/2 oz,dark rum,1 oz,coffee-flavored brandy,1/4 oz,fresh lemon juice,,,,,,,cocktail glass
+monkey wrench,rum - daiquiris,1 1/2 oz,light rum,,grapefruit juice,,,,,,,,,collins glass
+creme de cafe,brandy,1 oz,coffee-flavored brandy,1/2 oz,light rum,1/2 oz,anisette,1 oz,half-and-half,,,,,old-fashioned glass
+margarita,cocktail classics,1 1/2 oz,blanco tequila,3/4 oz,cointreau or triple sec,3/4 oz,fresh lime juice,"lime wedge, coarse (kosher) salt",,,,,,cocktail glass
+mojito,rum - daiquiris,3 oz,lime wedges,7,fresh mint leaves,3/4 oz,simple syrup,2 oz,light rum,,soda water,,fresh mint sprig,collins glass
+champagne flamingo,vodka,3/4 oz,vodka,3/4 oz,campari,5 oz,chilled champagne,orange twist,,,,,,champagne flute
+thunder and lightning cocktail,cocktail classics,1 oz,egg yolk,1 oz,powdered sugar,1 1/2 oz,old mr. boston five star brandy,,,,,,,cocktail glass
+casco bay lemonade,vodka,1 1/2 oz,citrus-flavored vodka,2 oz,simple syrup,2 oz,fresh lemon juice,1 oz,cranberry juice,,lemon-lime soda,,lemon wheel,collins glass
+caribbean cruise,vodka,1 oz,vodka,1/4 oz,light rum,1/4 oz,coconut-flavored rum,1 oz,grenadine,4 oz,pineapple juice,,"pineapple wedge, maraschino cherry",collins glass
+cappuccino cocktail,vodka,3/4 oz,vodka,3/4 oz,coffee-flavored brandy,3/4 oz,half-and-half,1 1/2 oz,vodka,5 oz,cranberry juice,,lime wedge,cocktail glass
+cape codder,tequila,1 1/2 oz,vodka,5 oz,cranberry juice,,lime wedge,1 oz,old mr. boston anisette,1 oz,old mr. boston five star brandy,1 oz,egg white,highball glass
+baltimore bracer cocktail,cocktail classics,1 oz,old mr. boston anisette,1 oz,old mr. boston five star brandy,1 oz,egg white,,,,,,,cocktail glass
+caesar,vodka,for glass,"lemon wedge, celery salt",1 1/2 oz,vodka,4 oz,tomato-clam juice,1/2 oz,prepared horseradish,1 oz,"each worcestershire sauce, salt, ground black pepper",,"celery stalk, lemon wedge",highball glass
+bull shot,vodka,1 1/2 oz,vodka,3 oz,cold beef bouillon,1 oz,worcestershire sauce,1 oz,salt,1 oz,freshly ground black pepper,,,old-fashioned glass
+bullfrog,vodka,1 1/2 oz,vodka,5 oz,lemonade,,lime wheel,,,,,,,collins glass
+boston gold,vodka,1 1/2 oz,vodka,1/2 oz,creme de banana,2 oz,fresh orange juice,,,,,,,highball glass
+corpse reviver no. 1,brandy,2 oz,cognac,1 oz,"calvados, apple brandy, or applejack",1 oz,sweet vermouth,,,,,,,cocktail glass
+thanksgiving special cocktail,cocktail classics,3/4 oz,old mr. boston apricot flavored brandy,3/4 oz,old mr. boston dry gin,3/4 oz,dry vermouth,1/4 oz,lemon juice,,,,,cocktail glass
+tequini cocktail,cocktail classics,1 1/2 oz,old mr. boston tequila,1/2 oz,dry vermouth,1 oz,bitters,,,,,,,cocktail glass
+bordeaux cocktail,vodka,1 1/2 oz,citrus-flavored vodka,1/2 oz,lillet blanc,,lemon twist,,,,,,,cocktail glass
+bolshoi punch,vodka,1 oz,vodka,3/4 oz,fresh lemon juice,1/2 oz,simple syrup,1/2 oz,light rum,1/2 oz,creme de cassis,,,old-fashioned glass
+blue lagoon,vodka,1 oz,vodka,1 oz,blue curacao,1/2 oz,fresh lemon juice,1/2 oz,simple syrup,,maraschino cherry,,,highball glass
+stinger cocktail,cocktail classics,1/2 oz,old mr. boston white creme de menthe,1 1/2 oz,old mr. boston five star brandy,,,,,,,,,cocktail glass
+bloody mary,vodka,1 1/2 oz,vodka,3 oz,tomato juice,1/4 oz,fresh lime juice,4 oz,worcestershire sauce,2 -  3 drops,hot red pepper sauce,,"freshly ground black pepper to taste, lime wedge, celery stalk",old-fashioned glass
+spritzer highball,cocktail classics,3 oz,chilled rhine wine or sauterne,,carbonated water,,,,,,,,,highball glass
+bloody bull,vodka,1 oz,vodka,2 oz,tomato juice,2 oz,cold beef bouillon,"lemon wedge, lime wheel",,,,,,highball glass
+the blood orange,vodka,2 oz,orange-flavored vodka,1 oz,campari,,blood or navel orange half-wheel,,,,,,,cocktail glass
+black russian,vodka,1 1/2 oz,vodka,3/4 oz,coffee liqueur,,,,,,,,,old-fashioned glass
+black magic,vodka,1 1/2 oz,vodka,3/4 oz,coffee liqueur,1/4 oz,fresh lemon juice,lemon twist,,,,,,old-fashioned glass
+black cherry chocolate,vodka,1 1/4 oz,black cherry-flavored vodka,3/4 oz,white chocolate liqueur,3/4 oz,black cherry juice,,,,,,,cocktail glass
+victor collins,cocktail classics,1 1/2 oz,old mr. boston vodka,3 oz,unsweetened grape juice,3 oz,lemon juice,1 oz,powdered sugar,,,,,collins glass
+snowball cocktail,cocktail classics,1 1/2 oz,old mr. boston dry gin,1/2 oz,old mr. boston anisette,1 oz,sweet cream,,,,,,,cocktail glass
+violet fizz,cocktail classics,1/2 oz,juice of a lemon,1/2 oz,powdered sugar,1 1/2 oz,old mr. boston dry gin,1 oz,creme yvette,,,,,highball glass
+bikini,vodka,1 oz,vodka,1/2 oz,light rum,1/2 oz,fresh lemon juice,1/2 oz,milk,1/2 oz,simple syrup,,lemon twist,cocktail glass
+cold deck cocktail,brandy,1 oz,brandy,1/2 oz,sweet vermouth,1 oz,white creme de menthe,,,,,,,cocktail glass
+the big crush,vodka,1 oz,raspberry-flavored vodka,1/2 oz,triple sec,1/2 oz,raspberry-flavored liqueur,1/2 oz,fresh lime juice,,chilled champagne,,fresh blackberries and raspberries,cocktail glass
+bianca,vodka,for glass,"lime wedge, superfine sugar",1 1/2 oz,citrus-flavored vodka,2 oz,pomegranate juice,1/4 oz,fresh lime juice,1 oz,simple syrup,1 oz,"fresh lemon juice, lemon twiste, fresh pomegranate seeds",cocktail glass
+bella fragolia,vodka,1 oz,"strawberry, chopped",4 oz,fresh basil leaves,2 oz,vodka,1 oz,fresh lemon juice,1 oz,simple syrup,,"soda water, strawberry slide, fresh basil leaf",old-fashioned glass
+beer buster,vodka,1 1/2 oz,vodka,,chilled beer or ale,2 oz,hot red pepper sauce,,,,,,,highball glass
+basil 8,vodka,3 oz,fresh basil leaves,5 oz,white grapes,1 1/2 oz,vodka,3/4 oz,fresh lime juice,1 oz,"each simple syrup, angostura bitters",,ginger ale,collins glass
+shamrock cocktail,cocktail classics,1 1/2 oz,irish whiskey,1/2 oz,dry vermouth,1 oz,old mr. boston green creme de menthe,,,,,,,cocktail glass
+aqueduct,vodka,1 1/2 oz,vodka,3/4 oz,fresh lime juice,1/2 oz,white curacao or triple sec,1/2 oz,apricot-flavored brandy,,orange twist,,,cocktail glass
+scotch whisky highball,cocktail classics,2 oz,desmond & duff scotch whisky,,ginger ale,,lemon twist,,,,,,,highball glass
+alfie cocktail,vodka,1 1/2 oz,lemon-flavored vodka,3/4 oz,pineapple juice,1/2 oz,triple sec,,,,,,,cocktail glass
+admiral perry,vodka,2 oz,pear-flavored vodka,1 oz,cinnamon schnapps,1 oz,dry vermouth,1 oz,white creme de cacao,,thin pear slice,,,cocktail glass
+yellow rose of texas,tequila,2 oz,blanco tequila,3/4 oz,fresh lemon juice,1/2 oz,simple syrup,1/4 oz,yellow chartreuse,3 oz,rose water,,,cocktail glass
+st. patrick's day cocktail,cocktail classics,3/4 oz,old mr. boston green creme de menthe,3/4 oz,green chartreuse,3/4 oz,irish whiskey,1 oz,bitters,,,,,collins glass
+purple twister,cocktail classics,2 oz,old mr. boston grape vodka,,cola,,lemon slice,,,,,,,collins glass
+waiting on summer,tequila,3 oz,cucumber,3 oz,fresh sage leaves,1/2 oz,fresh lime juice,1 1/2 oz,blanco tequila,3/4 oz,simple syrup,3 oz,"ginger ale, strawberry slice",collins glass
+cognac highball,brandy,2 oz,cognac,,ginger ale or soda water,,lemon twist (optional),,,,,,,highball glass
+prince's smile cocktail,cocktail classics,1/2 oz,old mr. boston apricot flavored brandy,1/2 oz,apple brandy,1 oz,old mr. boston dry gin,1/4 oz,lemon juice,,,,,cocktail glass
+viva villa,tequila,for glass,"lime wedge, coarse salt",1 1/2 oz,blanco tequila,1 oz,fresh lime juice,1/2 oz,simple syrup,,,,,old-fashioned glass
+praire oyster cocktail,cordials and liqueurs,1 oz,old mr. boston five star brandy,1 oz,worcestershire sauce,1 oz,tomato catsup,1 oz,vinegar,1 oz,pepper,,,old-fashioned glass
+praire chicken,cocktail classics,1 oz,old mr. boston dry gin,1 oz,whole egg,,pepper and salt,,,,,,,white-wine glass
+venial sin,tequila,1 1/2 oz,blanco tequila,1/2 oz,mezcal,1/2 oz,yellow chartreuse,1/4 oz,elderflower liqueur,1/4 oz,maraschino liqueur,,,cocktail glass
+vagabundo,tequila,2 oz,reposado blanco tequila,1 1/2 oz,pineapple juice,1 1/2 oz,fresh celery juice,1/2 oz,fresh lime juice,,lime wheel,,,hurricane glass
+the 21st century,tequila,splash,absinthe,1 oz,absinthe,1 1/2 oz,blanco tequila,3/4 oz,fresh lime juice,3/4 oz,white creme de cacao,,,cocktail glass
+pollyanna cocktail,cocktail classics,3 slices,orange peel,3 slices,pineapple,2 oz,old mr. boston dry gin,1/2 oz,sweet vermouth,1/2 tsp grenadine,,,,cocktail glass
+toreador,tequila,1 1/2 oz,blanco tequila,1/2 oz,dark creme de cacao,1/2 oz,half-and-half,"whipped cream, cocoa",,,,,,cocktail glass
+pink squirrel cocktail,cocktail classics,1 oz,mr. boston creme de noyaux,1 oz,old mr. boston white creme de cacao,1 oz,light sweet cream,,,,,,,cocktail glass
+pink lady cocktail,cocktail classics,1 oz,egg white,1 oz,grenadine,1 oz,sweet cream,1 1/2 oz,old mr. boston dry gin,,,,,cocktail glass
+tijuana taxi,tequila,2 oz,gold tequila,1 oz,blue curacao,1 oz,tropical fruit schnapps,lemon-lime soda,,,"orange wheel, maraschino cherry",,,highball glass
+tia juanathan,tequila,1 1/2 oz,blanco tequila,1/2 oz,fresh lime juice,1/2 oz,aperol,1/2 oz,yellow chartreuse,,soda water,,orange half-wheel,highball glass
+phoebe snow cocktail,cocktail classics,1 1/2 oz,dubonnet,1 1/2 oz,old mr. boston five star brandy,1/2 oz,absinthe substitute,,,,,,,cocktail glass
+tequonic,tequila,2 oz,blanco tequila,1/4 oz,fresh lemon or lime juice,,tonic water,lemon or lime wedge,,,,,,old-fashioned glass
+tequini,tequila,1 1/2 oz,blanco tequila,1/2 oz,dry vermouth,1 oz,angostura bitters,lemon twist,,,,,,cocktail glass
+passion daiquiri cocktail,cocktail classics,1 1/2 oz,old mr. boston rum,1 oz,juice of a lime,1 oz,powdered sugar,1 oz,passion fruit juice,,,,,cocktail glass
+parisian blonde cocktail,cocktail classics,3/4 oz,sweet cream,3/4 oz,old mr. boston triple sec,3/4 oz,jamaica rum,,,,,,,cocktail glass
+tequila sunrise,tequila,2 oz,blanco tequila,4 oz,orange juice,3/4 oz,grenadine,,,,,,,highball glass
+coffee grasshopper,brandy,3/4 oz,coffee-flavored brandy,3/4 oz,white creme de menthe,3/4 oz,half-and-half,,,,,,,old-fashioned glass
+tequila straight,tequila,1 oz,coarse salt,1 1/2 oz,blanco tequila,1 oz,lime wedge,,,,,,,shot glass
+tequila sour,tequila,2 oz,blanco tequila,3/4 oz,fresh lemon juice,3/4 oz,simple syrup,"lemon half-wheel, maraschino cherry",,,,,,cordial or pony glass
+tequila smash,tequila,4 oz,blueberries,4 oz,bing cherries,2 oz,blanco tequila,1/2 oz,maraschino liqueur,1/2 oz,fresh lime juice,,lime wheel skewered with blueberry and bing cherry,old-fashioned glass
+tequila pink,tequila,1 1/2 oz,blanco tequila,1 oz,dry vermouth,1/4 oz,grenadine,,,,,,,cocktail glass
+tequila old-fashioned,tequila,1 1/2 oz,blanco tequila,1 oz,simple syrup,1 oz,angostura bitters,1 oz,soda water,,lemon twist,,,old-fashioned glass
+rob roy cocktail,cocktail classics,3/4 oz,sweet vermouth,1 1/2 oz,desmond & duff scotch whisky,,,,,,,,,cocktail glass
+tequila mockingbird,tequila,for glass,"lime wedge, coarse salt",1/4 oz,minced ginger,1 3/4 oz,blanco tequila,1 1/2 oz,agave nectar,1 oz,fresh lime juice,,lime wheel,cocktail glass
+tequila matador,tequila,1 1/2 oz,blanco tequila,2 oz,pineapple juice,1/2 oz,fresh lime juice,,,,,,,champagne flute
+tequila manhattan,tequila,2 oz,blanco tequila,1 oz,sweet vermouth,1 oz,angostura bitters,maraschino cherry,,,,,,old-fashioned glass
+t.n.t. cocktail,cocktail classics,1 1/2 oz,old thompson blended whiskey,1 1/2 oz,absinthe substitute,,,,,,,,,cocktail glass
+thunderclap cocktail,cocktail classics,3/4 oz,old mr. boston dry gin,3/4 oz,old thompson blended whiskey,3/4 oz,old mr. boston five star brandy,,,,,,,cocktail glass
+thunder cocktail,cocktail classics,1 oz,powdered sugar,1 oz,egg yolk,1 1/2 oz,old mr. boston five star brandy,1 oz,cayenne pepper,,,,,cocktail glass
+tequila collins,tequila,2 oz,blanco tequila,1/2 oz,fresh lemon juice,1/2 oz,simple syrup,soda water,,,"lemon wheel, orange wheel, maraschino cherry",,,collins glass
+white lady cocktail,cocktail classics,1 oz,egg white,1 oz,powdered sugar,1 oz,sweet cream,1 1/2 oz,old mr. boston dry gin,,,,,cocktail glass
+tequila canyon,tequila,1 1/2 oz,blanco tequila,1/4 oz,triple sec,1 oz,cranberry juice,1 oz,pineapple juice,1 oz,orange juice,,lime wheel,collins glass
+chicago cocktail,brandy,for glass,"lemon wedge, superfine sugar",1 oz,brandy,1/2 oz,fresh lemon juice,1/4 oz,orange curacao,1/4 oz,maraschino liqueur,,,old-fashioned glass
+sunday confession,tequila,1 oz,blanco tequila,1 oz,limoncello,1/2 oz,fresh lemon juice,ginger beer,,,lemon wedge,,,collins glass
+strawberry margarita,tequila,for glass,"lime wedge, superfine sugar or coarse salt (optional)",3 oz,"fresh strawberries, cut in half",3/4 oz,strawberry schnapps,1 1/2 oz,blanco tequila,3/4 oz,triple sec,3/4 oz,"fresh lime juice, whole strawberry",cocktail glass
+western rose cocktail,cocktail classics,1/2 oz,old mr. boston apricot flavored brandy,1 oz,old mr. boston dry gin,1/2 oz,dry vermouth,1/4 oz,lemon juice,,,,,cocktail glass
+widow's kiss cocktail,cocktail classics,1 oz,old mr. boston five star brandy,1/2 oz,yellow chartreuse,1/2 oz,benedictine,1 oz,peychaud bitters,,,,,cocktail glass
+spice of life,tequila,3 oz,cucumber,12,fresh mint leaves,3/4 oz,simple syrup,2 oz,jalapeno-infused tequila,3/4 oz,fresh lime juice,,"cucumber slice, fresh mint sprig",old-fashioned glass
+widow's dream cocktail,cocktail classics,1 1/2 oz,benedictine,1 oz,whole egg,,,,,,,,,cocktail glass
+vodka gypsy cocktail,cocktail classics,1 1/2 oz,old mr. boston vodka,3/4 oz,benedictine,1 oz,angostura bitters,,,,,,,cocktail glass
+south of the border,tequila,1 oz,blanco tequila,3/4 oz,coffee-flavored brandy,1/2 oz,fresh lime juice,lime wheel,,,,,,cordial or pony glass
+vodka grasshopper cocktail,cocktail classics,3/4 oz,old mr. boston vodka,3/4 oz,old mr. boston green creme de menthe,3/4 oz,old mr. boston white creme de cacao,,,,,,,cocktail glass
+violet fizz juice,cocktail classics,1/2 oz,juice of a lemon,1/2 oz,powdered sugar,1 1/2 oz,old mr. boston dry gin,1 oz,creme yvette,,,,,highball glass
+smoked margarita,tequila,1/2 oz,"smoky scotch whisky, such as islay or skye",1 oz,reposado tequila,1 oz,triple sec,1/2 oz,fresh lemon juice,1/2 oz,fresh lime juice,,lime wedge,old-fashioned glass
+sloe tequila,shooters,1 oz,blanco tequila,1/2 oz,sloe gin,1/2 oz,fresh lime juice,cucumber peel twist,,,,,,old-fashioned glass
+queen elizabeth cocktail,cocktail classics,1 1/2 oz,old mr. boston dry gin,1/2 oz,dry vermouth,1 1/2 oz,benedictine,,,,,,,cocktail glass
+silk stockings,tequila,1 1/2 oz,blanco tequila,1 oz,white creme de cacao,1 1/2 oz,heavy cream,1 oz,grenadine,,ground cinnamon,,,cocktail glass
+orchid cocktail,cocktail classics,2 oz,old mr. boston dry gin,1 oz,egg white,1 oz,creme yvette,,,,,,,cocktail glass
+orange milk fizz,cocktail classics,1/2 oz,juice of a lemon,1 oz,powdered sugar,2 oz,old mr. boston orange flavored gin,2 oz,milk,,,,,highball glass
+orange gin rickey,cocktail classics,1/2 oz,juice of a lime,2 oz,old mr. boston orange flavored gin,,,,,,,,,highball glass
+orange gin highball,cocktail classics,2 oz,old mr. boston orange flavored gin,,ginger ale,,lemon twist,,,,,,,highball glass
+orange gin fizz,cocktail classics,1/2 oz,juice of a lemon,1 oz,powdered sugar,2 oz,old mr. boston orange flavored gin,,,,,,,highball glass
+orange gin collins,cocktail classics,1/2 oz,juice of a lemon,2 oz,old mr. boston orange flavored gin,,,,,,,,,collins glass
+sidewinder,tequila,1 1/2 oz,reposado tequila,1/2 oz,campari,1/2 oz,"vanilla syrup, preferably b.a. reynold's",1/2 oz,fresh lime juice,1/4 oz,mezcal,2 oz,"ginger beer, 1 oz",collins glass
+orange blossom cocktail,cocktail classics,1 oz,old mr. boston dry gin,1 oz,orange juice,1/4 oz,powdered sugar,,,,,,,cocktail glass
+shady lady,tequila,1 oz,blanco tequila,1 oz,melon liqueur,4 oz,fresh grapefruit juice,4 oz,fresh grapefruit juice,,lime wedge; honeydew melon wedge or maraschino cherry,,,highball glass
+cherry blossom,brandy,,"cherry-flavored brandy, superfine sugar",1 oz,brandy,1/2 oz,cherry-flavored brandy,1/2 oz,fresh lemon juice,1/4 oz,triple sec,1/4 oz,"grenadine, maraschino cherry",cocktail glass
+the sfozando,tequila,1 oz,mezcal,3/4 oz,rye whiskey,1/2 oz,dry vermouth,1/2 oz,benedictine,1 oz,chocolate bitters,,orange twist,cocktail glass
+napoleon cocktail,cocktail classics,2 oz,old mr. boston dry gin,1/2 oz,curacao,1/2 oz,dubonnet,,,,,,,cocktail glass
+moulin rouge cocktail,cocktail classics,1 1/2 oz,old mr. boston sloe gin,3/4 oz,sweet vermouth,1 oz,bitters,,,,,,,cocktail glass
+sea of cortez,tequila,1 1/2 oz,blanco tequila,1 oz,fresh lime juice,3/4 oz,creme de cassis,1/4 oz,orange curacao,,,,,cocktail glass
+satin sheets,tequila,1 1/2 oz,blanco tequila,1/2 oz,falernum,1/2 oz,simple syrup,3/4 oz,fresh lime juice,,lime wheel,,,cocktail glass
+santana sling,tequila,1 1/2 oz,reposado tequila,1/2 oz,cherry heering,1/4 oz,batavia arrack or light rum,1/2 oz,fresh lime juice,3 oz,ginger beer,,,collins glass
+rosita,tequila,1 1/2 oz,blanco tequila,1/2 oz,sweet vermouth,1/2 oz,dry vermouth,1/2 oz,campari,1 oz,angostura bitters,,lemon twist,old-fashioned glass
+mariposa cocktail,cocktail classics,1 oz,old mr. boston rum,1/2 oz,old mr. boston five star brandy,1 oz,lemon juice,1 oz,orange juice,1 oz,grenadine,,,cocktail glass
+margarita cocktail,cocktail classics,1 1/2 oz,old mr. boston tequila,1/2 oz,old mr. boston triple sec,1 oz,lemon or lime juice,,,,,,,cocktail glass
+the refuge,tequila,1 1/2 oz,blanco tequila,1/2 oz,aperol,1/4 oz,fresh lime juice,1/4 oz,grapefruit juice,1/4 oz,agave nectar,,,cocktail glass
+manhattan cocktail (dry),cocktail classics,3/4 oz,dry vermouth,1 1/2 oz,old thompson blended whiskey,,,,,,,,,cocktail glass
+mamie taylor,cocktail classics,1/2 oz,juice of a lime,2 oz,desmond & duff scotch whisky,,,,,,,,,collins glass
+quetzalcoatl,tequila,1 oz,blanco tequila,3/4 oz,mezcal,1/2 oz,creme de peche,1/2 oz,guava puree,1/2 oz,grapefruit juice,,grapefruit twist,cocktail glass
+zero mint,cocktail classics,2 oz,mr. boston creme de menthe,,water,,,,,,,,,cocktail glass
+purple pancho,tequila,for glass,"lime wedge, superfine sugar",1 oz,blanco tequila,1/2 oz,blue curacao,1/2 oz,sloe gin,2 oz,fresh lime juice,1 oz,"each fresh lemon juice, simple syrup, 1 lime wheel",cocktail glass
+midnight express,rum - daiquiris,1 1/2 oz,dark rum,1/2 oz,triple sec,3/4 oz,fresh lime juice,1/4 oz,fresh lemon juice,1/4 oz,simple syrup,,,old-fashioned glass
+london special cocktail,cocktail classics,,orange peel,,lump sugar,2 dashes,bitters,champagne,,,,,,champagne flute
+mary pickford cocktail,rum - daiquiris,1 1/2 oz,light rum,3/4 oz,pineapple juice,1/4 oz,maraschino liqueur,1/4 oz,grenadine,,,,,cocktail glass
+charles cocktail,brandy,1 1/2 oz,brandy,1 1/2 oz,sweet vermouth,1 oz,angostura bitters,,,,,,,cocktail glass
+martinique rose,rum - daiquiris,2 oz,aged rhum agricole,1/2 oz,amaretto,3/4 oz,fresh lime juice,3/4 oz,grapefruit juice,1/2 oz,orgeat or almond syrup,,,cocktail glass
+mariposa,rum - daiquiris,1 oz,light rum,1/2 oz,brandy,1/2 oz,fresh lemon juice,1/2 oz,orange juice,1 oz,grenadine,,,cocktail glass
+mandeville,rum - daiquiris,1 1/2 oz,light rum,1 oz,dark rum,1/2 oz,fresh lemon juice,1 oz,anisette,1 oz,grenadine,cola,,old-fashioned glass
+k.c.b. cocktail,cocktail classics,1/2 oz,old mr. boston kummel,1 1/2 oz,old mr. boston dry gin,1/4 oz,old mr. boston apricot flavored brandy,1/4 oz,lemon juice,,,,,cocktail glass
+malmaison,rum - daiquiris,,anisette,1 oz,light rum,1/2 oz,cream sherry,1 oz,fresh lemon juice,,,,,cocktail glass
+mai-tai (trader vic version),rum - daiquiris,2 oz,"dark rum, preferably jamaican",1/2 oz,orange curacao,1 oz,fresh lime juice (reserve 1/2 lime shell for garnish),1/2 oz,orgeat syrup,1/4 oz,rock candy syrup or simple syrup,,fresh mint sprig; pineapple wedge skewered with maraschino cherry,old-fashioned glass
+jersey lightning cocktail,cocktail classics,1 1/2 oz,apple brandy,1/2 oz,sweet vermouth,1 oz,juice of a lime,,,,,,,cocktail glass
+lumination,rum - daiquiris,2 oz,fresh ginger,1 oz,simple syrup,2 oz,dark rum,1 oz,vs cognac,1 oz,"each fresh lemon juice, angostura bitters",,lemon twist,champagne flute
+jamaica glow cocktail,cocktail classics,1 oz,old mr. boston dry gin,1 oz,claret,1 oz,orange juice,1 oz,jamaica rum,,,,,cocktail glass
+lounge lizard,rum - daiquiris,1 oz,dark rum,1/2 oz,amaretto,,cola,lime wedge,,,,,,collins glass
+jack-in-the-box cocktail,cocktail classics,1 oz,apple brandy,1 oz,pineapple juice,1 oz,bitters,,,,,,,cocktail glass
+irish whisky cocktail,cocktail classics,1/2 oz,old mr. boston triple sec,1/2 oz,absinthe substitute,1/4 oz,maraschino,1 oz,bitters,2 oz,irish whiskey,,,cocktail glass
+look out below,rum - daiquiris,1 1/2 oz,151-proof rum,1/2 oz,fresh lime juice,1/4 oz,grenadine,,,,,,,old-fashioned glass
+little princess cocktail,rum - daiquiris,1 1/2 oz,light rum,1 1/2 oz,sweet vermouth,,,,,,,,,cocktail glass
+little devil cocktail,rum - daiquiris,3/4 oz,light rum,3/4 oz,gin,1/2 oz,fresh lemon juice,1/4 oz,triple sec,,,,,cocktail glass
+champs elysees cocktail,brandy,1 oz,brandy,1/2 oz,yellow chartreuse,1/2 oz,fresh lemon juice,1 oz,simple syrup,1 oz,angostura bitters,,,cocktail glass
+hop toad cocktail,cocktail classics,1/2 oz,juice of a lime,3/4 oz,old mr. boston apricot flavored brandy,3/4 oz,old mr. boston rum,,,,,,,cocktail glass
+level headed cocktail,rum - daiquiris,1 1/2 oz,aged rhum agricole,1 oz,cold brewed coffee,1/2 oz,allspice liqueur (pimento dram),1/4 oz,simple syrup,2 oz,angostura bitters,,,brandy snifter
+la vita dulce,rum - daiquiris,1 1/2 oz,spiced rum,3/4 oz,mezcal,3/4 oz,fresh lime juice,3/4 oz,simple syrup,,ground cinnamon,,,cocktail glass
+hole-in-one cocktail,cocktail classics,1 3/4 oz,desmond & duff scotch whisky,3/4 oz,dry vermouth,1/4 oz,lemon juice,1 oz,orange bitters,,,,,cocktail glass
+ko adang,rum - daiquiris,2 oz,dark rum,1 oz,coconut rum,1/2 oz,ginger liqueur,1/2 oz,mango nectar,1/2 oz,cream of coconut,1/2 oz,"fresh lime juice, lime wheel",collins glass
+knickerbocker special cocktail,rum - daiquiris,2 oz,light rum,1/2 oz,triple sec,1 oz,fresh lemon juice,1 oz,orange juice,1 oz,raspberry syrup,,small pineapple slice,cocktail glass
+hair raiser cocktail,cocktail classics,1 1/2 oz,old mr. boston 100 proof vodka,1/2 oz,old mr. boston rock and rye,1 oz,lemon juice,,,,,,,cocktail glass
+green opal cocktail,cocktail classics,1/2 oz,old mr. boston dry gin,1/2 oz,old mr. boston anisette,1 oz,absinthe substitute,,,,,,,cocktail glass
+jamaican ginger,rum - daiquiris,1 1/2 oz,light rum,1 oz,dark rum,1/2 oz,falernum,1/2 oz,fresh lime juice,4 oz,angostura bitters,,"ginger ale, lime wheel",collins glass
+green dragon cocktail,cocktail classics,1/2 oz,juice of a lemon,1/2 oz,old mr. boston kummel,1/2 oz,old mr. boston green creme de menthe,1 1/2 oz,old mr. boston dry gin,4 oz,orange bitters,,,cocktail glass
+grasshopper cocktail,cocktail classics,3/4 oz,old mr. boston green creme de menthe,3/4 oz,old mr. boston white creme de cacao,3/4 oz,light sweet cream,,,,,,,cocktail glass
+jamaican crawler,rum - daiquiris,1 oz,light rum,1 oz,melon liqueur,3 oz,pineapple juice,1 oz,grenadine,,,,,collins glass
+golden slipper cocktail,cocktail classics,3/4 oz,yellow chartreuse,2 oz,old mr. boston apricot flavored brandy,,,,,,,,,cocktail glass
+jade,rum - daiquiris,1 1/2 oz,light rum,1/2 oz,fresh lime juice,1/2 oz,green creme de menthe,1/2 oz,triple sec,1/2 oz,simple syrup scant,,lime wheel,cocktail glass
+jacqueline,rum - daiquiris,2 oz,dark rum,1 oz,triple sec,1 oz,fresh lime juice,1 oz,simple syrup,,,,,cocktail glass
+jack sparrow flip,rum - daiquiris,2 oz,dark rum,3/4 oz,madeira,3/4 oz,simple syrup,1 oz,egg,2 oz,angostura bitters,,freshly grated nutmeg,highball glass
+irresistible,rum - daiquiris,1 1/2 oz,light rum,1/2 oz,sweet vermouth,1/4 oz,benedictine,1/4 oz,fresh lemon juice,,lemon twist,,,cocktail glass
+carroll cocktail,brandy,1 1/2 oz,brandy,3/4 oz,sweet vermouth,,maraschino cherry,,,,,,,cocktail glass
+hush and wonder,rum - daiquiris,1 oz,creme de violette,2 oz,light rum,3/4 oz,fresh lime juice,3/4 oz,simple syrup,3 oz,grapefruit bitters,,,cocktail glass
+hurricane leah,rum - daiquiris,1/4 oz,"each light rum, gin, vodka, blanco tequila, blue curacao",1 oz,cherry-flavored brandy,1 1/2 oz,simple syrup,1 1/2 oz,fresh lemon juice,3 oz,fresh orange juice,,orange wheel,hurricane glass
+gimlet cocktail,cocktail classics,1 oz,rose's lime juice,1 oz,powdered sugar,1 1/2 oz,old mr. boston dry gin,,,,,,,cocktail glass
+hurricane,rum - daiquiris,1 1/2 oz,"each dark rum, light rum",1 oz,passion fruit syrup,1 oz,lime juice,3/4 oz,orange juice,1/2 oz,"each simple syrup, grenadine",,"orange half-wheel, maraschino cherry",hurricane glass
+hop toad,rum - daiquiris,3/4 oz,light rum,3/4 oz,apricot-flavored brandy,1/2 oz,fresh lime juice,,,,,,,cocktail glass
+the holy roller,rum - daiquiris,1 1/2 oz,cachaca,3/4 oz,fresh lime juice,1/2 oz,honey syrup,4 fresh mint leaves,,2 oz,angostura bitters,1/2 oz,"champagne or sparkling wine, mint sprig",cocktail glass
+hemingway's nog,rum - daiquiris,1 1/2 oz,dark rum,3/4 oz,vanilla liqueur,1/4 oz,simple syrup,1 oz,creme fraiche,3 oz,"tiki bitters, such as bittermen's elemakule",,freshly grated nutmeg,cocktail glass
+flying scotchman cocktail,cocktail classics,1 oz,sweet vermouth,1 oz,desmond & duff scotch whisky,1 oz,bitters,1/4 oz,sugar syrup,,,,,cocktail glass
+flying grasshopper cocktail,cocktail classics,3/4 oz,old mr. boston green creme de menthe,3/4 oz,old mr. boston white creme de cacao,3/4 oz,old mr. boston vodka,,,,,,,cocktail glass
+havana cocktail,rum - daiquiris,3/4 oz,light rum,1 1/2 oz,pineapple juice,1/4 oz,fresh lemon juice,,,,,,,cocktail glass
+harvest nectar,rum - daiquiris,1 1/2 oz,light rum,1 oz,pineapple juice,1 oz,cranberry juice,1 oz,orange juice,1 oz,lemon-lime soda,,,beer mug
+fancy brandy cocktail,cocktail classics,2 oz,old mr. boston five star brandy,1 oz,bitters,1/4 oz,old mr. boston triple sec,1/4 oz,powdered sugar,,,,,cocktail glass
+fallen angel cocktail,cocktail classics,1 oz,juice of a lime,1 1/2 oz,old mr. boston dry gin,1 oz,bitters,1/2 oz,old mr. boston white creme de menthe,,,,,cocktail glass
+the poncho,tequila,2 oz,reposado tequila,1/2 oz,dry vermouth,1/2 oz,maraschino liqueur,2 oz,peychaud's bitters,,maraschino cherry,,,cocktail glass
+hai karate,rum - daiquiris,2 oz,dark rum,1 oz,fresh lime juice,1 oz,pineapple juice,1 oz,orange juice,1 oz,maple syrup,1 oz,angostura bitters,collins glass
+cara sposa,brandy,1 oz,coffee-flavored brandy,3/4 oz,triple sec,1/2 oz,half-and-half,,,,,,,cocktail glass
+traditional martini (dry),cocktail classics,1 oz,gin,1 oz,dry vermouth,1 oz,orange bitters,lemon twist,,,,,,cocktail glass
+pina agave,tequila,2 oz,cucumber,1 1/2 oz,blanco tequila,1 oz,pineapple juice,3/4 oz,fresh lemon juice,1/2 oz,agave nectar,,"lemon-lime soda, cucumber slice",cocktail glass
+grande guignol,rum - daiquiris,1 1/2 oz,dark rum,3/4 oz,yellow chartreuse,3/4 oz,cherry heering,3/4 oz,fresh lime juice,,lime wheel,,,cocktail glass
+pancho villa,tequila,1 oz,anejo tequila,3/4 oz,aperol,3/4 oz,sweet vermouth,1 oz,peach bitters,,grapefruit twist,,,cocktail glass
+paloma (natural),tequila,2 oz,blanco tequila,2 oz,fresh white or ruby red grapefruit juice,,soda water,lime wedge,,,,,,collins glass
+golden friendship,rum - daiquiris,1 oz,light rum,1 oz,sweet vermouth,1 oz,amaretto,ginger ale,,,"orange zest spiral, maraschino cherry",,,collins glass
+paloma,tequila,2 oz,blanco tequila,,grapefruit-flavored soda,,lime wedge,,,,,,,collins glass
+pacific sunshine,tequila,for glass,"lemon wheel, coarse salt",1 1/2 oz,blanco tequila,1 1/2 oz,blue curacao,3/4 oz,simple syrup,3/4 oz,fresh lemon juice,1 oz,angostura bitters,hurricane glass
+golden eclipse,rum - daiquiris,1 1/2 oz,dark rum,1/4 oz,amaro,1/2 oz,fresh lemon juice,1 oz,orange bitters,3 oz,sparkling apple cider,,golden delicious apple wedge,cocktail glass
+diplomat cocktail,cocktail classics,1 1/2 oz,dry vermouth,1/2 oz,sweet vermouth,2 oz,bitters,1/2 oz,maraschino,,,,,cocktail glass
+oldest temptation,tequila,2 oz,anejo tequila,1 oz,apple juice,1/2 oz,fresh lemon juice,1/2 oz,triple sec,1/4 oz,simple syrup,1 oz,"angostura bitters, flamed lemon twist",cocktail glass
+ginger grapefruit rickey,rum - daiquiris,2 oz,light rum,2 oz,fresh grapefruit juice,1 oz,ginger liqueur,1/2 oz,fresh lime juice,,soda water,,,highball glass
+calvados cocktail,brandy,1 1/2 oz,calvados,1 1/2 oz,orange juice,3/4 oz,triple sec,1 oz,orange bitters,,,,,cocktail glass
+daiquiri cocktail,cocktail classics,1 oz,juice of a lime,1 oz,powdered sugar,1 1/2 oz,old mr. boston rum,,,,,,,cocktail glass
+the oaxaca old-fashioned,tequila,1 1/2 oz,reposado tequila,1/2 oz,mezcal,1/4 oz,agave nectar,2 oz,angostura bitters,,"orange twist, flamed",,,old-fashioned glass
+cuban special cocktail,cocktail classics,1 oz,pineapple juice,1/2 oz,juice of a lime,1 oz,old mr. boston rum,1/2 oz,old mr. boston triple sec,,,,,cocktail glass
+gaugin,rum - daiquiris,2 oz,light rum,1/2 oz,fresh lemon juice,1/2 oz,fresh lime juice,1/2 oz,passion fruit syrup,,maraschino cherry,,,old-fashioned glass
+the nomad south,tequila,2 oz,blanco tequila,1 oz,orange juice,1/2 oz,blood orange juice,1/2 oz,agave nectar,1/2 oz,fresh lime juice,1 oz,whiskey barrel bitters,old-fashioned glass
+creole lady cocktail,cocktail classics,1 1/2 oz,old kentucky tavern bourbon whiskey,1 1/2 oz,madeira,1 oz,grenadine,,,,,,,cocktail glass
+no. 8,tequila,2 oz,reposado tequila,3/4 oz,palo cortado or oloroso sherry,1/2 oz,honey liqueur,2 oz,orange bitters,,lemon twist,,,cocktail glass
+fog cutter,rum - daiquiris,1 1/2 oz,light rum,1/2 oz,brandy,1/2 oz,gin,1 1/2 oz,fresh lemon juice,1 oz,each orange juice and sweet sherry,1 1/2 oz,almond or orgeat syrup,collins glass
+mexicola,tequila,2 oz,blanco tequila,1/2 oz,fresh lime juice,cola,,,,,,,,collins glass
+floridita no. 3,rum - daiquiris,2 oz,light rum,3/4 oz,fresh lime juice,1/2 oz,grapefruit juice,1/2 oz,maraschino liqueur,1/2 oz,simple syrup,,lime wheel,champagne flute
+mexican monk,tequila,2 oz,reposado tequila,1/2 oz,dry sherry,1/4 oz,coffee liqueur,1/4 oz,benedictine,,lemon twist,,,cocktail glass
+floridita no. 1,rum - daiquiris,1 1/2 oz,light rum,1/2 oz,fresh lime juice,1/2 oz,sweet vermouth,1 oz,white creme de cacao,1 oz,grenadine,,lime twist,cocktail glass
+mexican madras,tequila,1 1/2 oz,blanco tequila,2 oz,cranberry juice,1 oz,orange juice,1/4 oz,fresh lime juice,,orange wheel,,,old-fashioned glass
+cadiz,brandy,1/4 oz,blackberry-flavored brandy,1/4 oz,dry sherry,1/2 oz,triple sec,1/2 oz,half-and-half,,,,,old-fashioned glass
+chocolate soldier cocktail,cocktail classics,1/2 oz,juice of a lime,3/4 oz,dubonnet,1 1/2 oz,old mr. boston dry gin,,,,,,,cocktail glass
+fireman's sour,rum - daiquiris,2 oz,light rum,2 oz,fresh lime juice,1/4 oz,simple syrup,1/4 oz,grenadine,,soda water (optional),,"lemon half-wheel, maraschino cherry",old-fashioned glass
+fat like buddha,rum - daiquiris,2 oz,dark rum,3/4 oz,dubonnet rouge,1/4 oz,benedictine,1/4 oz,triple sec,,"orange twist, flamed",,,cocktail glass
+cherry blossom cocktail,cocktail classics,1 1/2 oz,old mr. boston five star brandy,1/2 oz,old mr. boston wild cherry flavored brandy,1 1/2 oz,old mr. boston triple sec,1 1/2 oz,grenadine,2 oz,lemon juice,,,cocktail glass
+fair-and-warmer cocktail,rum - daiquiris,1 1/2 oz,light rum,3/4 oz,sweet vermouth,1/2 oz,triple sec,,,,,,,cocktail glass
+chelsea sidecar cocktail,cocktail classics,1/4 oz,juice of a lemon,3/4 oz,old mr. boston triple sec,3/4 oz,old mr. boston dry gin,,,,,,,cocktail glass
+mexican firing squad,tequila,2 oz,blanco tequila,1 oz,simple syrup,3/4 oz,fresh lime juice,1 oz,pomegranate molasses (available at middle eastern grocers),2 oz,angostura bitters,,lime wheel,highball glass
+mexicana,tequila,1/2 oz,blanco tequila,1 oz,fresh lemon juice,1/2 oz,pineapple juice,1 oz,grenadine,,,,,cocktail glass
+el presidente cocktail no. 2,rum - daiquiris,1 1/2 oz,light rum,3/4 oz,dry vermouth,1 oz,angostura bitters,,,,,,,cocktail glass
+margarita tequila,shooters,,"lime wedge, coarse salt",1 1/2 oz,blanco tequila,3/4 oz,cointreau triple sec,3/4 oz,fresh lime juice,,,,,cocktail glass
+lillypad,tequila,1 1/2 oz,blanco tequila,1/2 oz,each lillet blanc and lillet rouge,1 1/2 oz,apple juice,3/4 oz,fresh lime juice,1/4 oz,agave nectar,,blood orange wheel,cocktail glass
+x. y. z. cocktail,cocktail classics,1 oz,lemon juice,1/2 oz,old mr. boston triple sec,1 oz,old mr. boston rum,,,,,,,cocktail glass
+la ultima palabra,tequila,3/4 oz,blanco tequila,3/4 oz,fresh grapefruit juice,3/4 oz,fresh lime juice,3/4 oz,yellow chartreuse,3/4 oz,maraschino liqueur,,grapefruit twist,cocktail glass
+la perla,tequila,1 1/2 oz,reposado tequila,1 1/2 oz,manzanilla sherry,3/4 oz,pear liqueur,lemon twist,,,,,,cocktail glass
+bull's milk,brandy,1 1/2 oz,brandy,1 oz,light rum,1/4 oz,simple syrup,3 oz,milk,,"freshly grated nutmeg, ground cinnamon",,,collins glass
+la bomba,tequila,,"lime wedge, superfine sugar",1 1/4 oz,gold tequila,3/4 oz,triple sec,1 1/2 oz,pineapple juice,1 1/2 oz,orange juice,2 oz,"grenadine, lime wheel",cocktail glass
+jinx cocktail,tequila,1 oz,blanco tequila,3/4 oz,blood orange liqueur,3/4 oz,becherovka (czech digestif),1 oz,fresh grapefruit juice,,"grapefruit twist, flamed",,,cocktail glass
+the interesting cocktail,tequila,2 oz,blanco tequila,1/2 oz,aperol,1/2 oz,dark creme de cacao,3/4 oz,fresh lemon juice,1 oz,grapefruit twist,,,cocktail glass
+hot pants,tequila,,"lime wedge, coarse salt",1 1/2 oz,blanco tequila,1/2 oz,peppermint schnapps,1/2 oz,grapefruit juice,2 oz,simple syrup,,,old-fashioned glass
+high plains drifter no. 1,tequila,1 oz,campari,2 oz,blanco tequila,3/4 oz,fresh lime juice,3/4 oz,honey syrup,1 oz,angostura bitters,,,cocktail glass
+hairy sunrise,tequila,3/4 oz,blanco tequila,3/4 oz,vodka,1/2 oz,triple sec,3 oz,orange juice,1 oz,fresh grenadine,,lime wedge,collins glass
+guadalajara,tequila,2 oz,blanco tequila,1 oz,dry vermouth,1/2 oz,benedictine,lemon twist,,,,,,cocktail glass
+frostbite,tequila,1 oz,blanco tequila,3/4 oz,white creme de cacao,3/4 oz,heavy cream,freshly grated nutmeg,,,,,,cocktail glass
+flower power,tequila,2 oz,blanco tequila,1 oz,grapefruit juice,1/2 oz,agave nectar,1 oz,egg white,3 oz,orange blossom water,2 oz,peychaud's bitters,cocktail glass
+cablegram highball,cocktail classics,1/2 oz,juice of a lemon,1 oz,powdered sugar,2 oz,old thompson blended whiskey,,,,,,,highball glass
+cabaret cocktail,cocktail classics,1 1/2 oz,old mr. boston dry gin,2 oz,bitters,1/2 oz,dry vermouth,1/4 oz,benedictine,,,,,cocktail glass
+bulla's eye,brandy,1 oz,brandy,2 oz,hard cider,,ginger ale,,,,,,,highball glass
+el oso (the bear),tequila,1  3/4 oz,anejo tequila,3/4 oz,honey liqueur,1/2 oz,maraschino liqueur,2 oz,the bitter truth's jerry thomas' own decanter bitters,,dehydrated orange wheel,,,cocktail glass
+el ni_o,tequila,6,lime wedges,1 oz,whole strawberry,3/4 oz,simple syrup,2 oz,blanco tequila,5 oz,rose water,,,old-fashioned glass
+el molino,tequila,1 1/2 oz,mezcal,3/4 oz,palo cortado or oloroso sherry,1/4 oz,allspice liqueur (pimento dram),1/4 oz,white creme de cacao,,,,,cocktail glass
+bucks fizz,cocktail classics,2 oz,orange juice,,champagne,,,,,,,,,collins glass
+dirty daisy,tequila,1 1/2 oz,reposado tequila,1 oz,white curacao,1/2 oz,olive brine,1 oz,balsamic vinegar,1 oz,fresh lime juice,,,cocktail glass
+diablo,tequila,1 1/2 oz,blanco tequila,3/4 oz,creme de cassis,1/2 oz,fresh lime juice,ginger ale,,,lime wheel,,,collins glass
+count camillo's paloma,tequila,3/4 oz,blanco tequila,3/4 oz,sweet vermouth,3/4 oz,campari,2 oz,grapefruit soda,,rosemary sprig,,,collins glass
+company b,tequila,1 oz,"whole strawberry, hulled",1 1/2 oz,blanco tequila,1/2 oz,campari,1/2 oz,triple sec,1/2 oz,fresh lemon juice,1/4 oz,"agave nectar, strawberry slice",cocktail glass
+chupa cabra,tequila,2 oz,blanco tequila,3/4 oz,fresh grapefruit juice,1/2 oz,fresh lime juice,1/2 oz,campari,1/2 oz,simple syrup,1 oz,"angostura bitters, lime wheel",cocktail glass
+chinchona,tequila,1 1/2 oz,anejo tequila,3/4 oz,lillet rouge,1/2 oz,orange curacao,2 oz,orange bitters,,orange twist,,,cocktail glass
+chapala,tequila,1 1/2 oz,reposado tequila,1 1/2 oz,orange juice,3/4 oz,fresh lemon juice,1/4 oz,grenadine,,orange blossoms (optional): orange wedge,,,hurricane glass
+bulldog cocktail,brandy,1 1/2 oz,cherry-flavored brandy,3/4 oz,gin,1/2 oz,fresh lemon juice,,,,,,,cocktail glass
+boston sidecar cocktail,cocktail classics,3/4 oz,old mr. boston five star brandy,3/4 oz,old mr. boston rum,3/4 oz,old mr. boston triple sec,1/2 oz,juice of a lime,,,,,cocktail glass
+catalina margarita,tequila,1 1/2 oz,blanco tequila,1 oz,peach schnapps,1 oz,blue curacao,2 oz,simple syrup,2 oz,fresh lemon juice,,,cocktail glass
+camino del ray,tequila,1 3/4 oz,anejo tequila,1 oz,oloroso sherry,1/2 oz,drambuie,1 oz,rhubarb bitters,,lemon twist,,,cocktail glass
+cactus berry,tequila,,lime wedge coarse salt,1 1/4 oz,blanco tequila,1 1/4 oz,red wine,1/2 oz,"each triple sec, simple syrup",1/4 oz,"each fresh lemon juice, fresh lime juice",1 oz,lemon-lime soda,cocktail glass
+bolero cocktail,cocktail classics,1 1/2 oz,old mr. boston rum,3/4 oz,apple brandy,1/4 oz,sweet vermouth,,,,,,,cocktail glass
+bum's rush,tequila,1 1/2 oz,blanco tequila,3/4 oz,triple sec,3/4 oz,honey liqueur,1 oz,fresh lime juice,1 oz,fresh apple cider,,lime wedge,collins glass
+brave bull,tequila,1 1/2 oz,blanco tequila,1 oz,coffee liqueur,,lemon twist,,,,,,,old-fashioned glass
+blue margarita,tequila,for glass,"lime juice, coarse salt",1 1/2 oz,blanco tequila,1/2 oz,blue curacao,1 oz,fresh lime juice,,,,,cocktail glass
+bloody maria,tequila,1 oz,blanco tequila,2 oz,tomato juice,1/4 oz,fresh lemon juice,1 oz,hot red pepper sauce,1 oz,celery salt,,lemon wheel,old-fashioned glass
+pineapple dream cocktail,cocktail classics,1/2 oz,pineapple juice,1/2 oz,juice of a lime,1 oz,old mr. boston imported rum,,,,,,,cocktail glass
+big red hooter,tequila,1 oz,blanco tequila,3/4 oz,amaretto,2 oz,pineapple juice,1/2 oz,grenadine,,maraschino cherry,,,collins glass
+blood bronx cocktail,cocktail classics,1 1/2 oz,old mr. boston dry gin,1 1/2 oz,dry vermouth,1/4 oz,juice of a blood orange,,,,,,,cocktail glass
+bravo,tequila,2 oz,anejo tequila,1/4 oz,agave nectar,2 oz,angostura bitters,1 oz,orange bitters,,grapefruit twist,,,old-fashioned glass
+amante picante,tequila,2 oz,cucumber,2 oz,fresh cilantro sprigs,2 oz,blanco tequila,1 oz,fresh lime juice,1 oz,simple syrup,2 oz,"jalapeno hot pepper sauce, cucumber slice",cocktail glass
+brunswick street cocktail,brandy,1 1/2 oz,cognac,1 1/2 oz,"sweet sherry, preferably pedro ximenez",1 oz,egg yolk,freshly grated nutmeg,,,,,,cocktail glass
+black hawk cocktail,cocktail classics,1 1/4 oz,old thompson blended whiskey,1 1/4 oz,old mr. boston sloe gin,,,,,,,,,cocktail glass
+alamo splash,tequila,1 1/2 oz,blanco tequila,1 oz,orange juice,1/2 oz,pineapple juice,1 oz,lemon-lime soda,,,,,collins glass
+betsy ross cocktail,cocktail classics,1 1/2 oz,old mr. boston five star brandy,1 1/2 oz,port,1 oz,old mr. boston triple sec,,,,,1 1/4 oz,old mr. boston dry gin,cocktail glass
+bermuda rose cocktail,cocktail classics,1 1/4 oz,old mr. boston dry gin,1 1/2 oz,old mr. boston apricot flavored brandy,1 1/2 oz,grenadine,,,,,,,cocktail glass
+yokahama romance,gin,2 1/2 oz,sake,1 oz,gin,1/4 oz,maraschino liqueur,1 oz,unsprayed rose petal,,,,,cocktail glass
+yale cocktail,gin,1 1/2 oz,gin,1/2 oz,dry vermouth,1 oz,blue curacao,1 oz,angostura bitters,,,,,cocktail glass
+xanthia cocktail,gin,3/4 oz,gin,3/4 oz,cherry-flavored brandy,3/4 oz,yellow chartreuse,,,,,,,cocktail glass
+woodstock,gin,1 1/2 oz,gin,1 oz,fresh lemon juice,1 1/2 oz,maple syrup,1 oz,orange bitters,,,,,cocktail glass
+wolf's bite,gin,1 1/2 oz,gin,1 oz,grapefruit juice,1/2 oz,green chartreuse,,,,,,,cocktail glass
+barbary coast cocktail,cocktail classics,1/2 oz,old mr. boston dry gin,1/2 oz,old mr. boston rum,1/2 oz,old mr. boston creme de cacao,1/2 oz,desmond & duff scotch whisky,1/2 oz,sweet cream,,,cocktail glass
+the winkle,gin,3 oz,fresh sage leaves,2 oz,gin,1 oz,fresh lime juice,1/2 oz,limoncello,1/2 oz,simple syrup,4 oz,"raspberries, lemon twist",cocktail glass
+the wink,gin,1 splash,absinthe,2 oz,gin,1/4 oz,triple sec,1/4 oz,simple syrup,2 oz,peychaud's bitters,,,old-fashioned glass
+will rogers,gin,1 1/2 oz,gin,1/2 oz,dry vermouth,1/2 oz,orange juice,1 oz,triple sec,,,,,cocktail glass
+brandy vermouth cocktail,brandy,2 oz,brandy,1/2 oz,sweet vermouth,1 oz,angostura bitters,,,,,,,cocktail glass
+white spider,gin,1 oz,gin,3/4 oz,fresh lemon juice,1/2 oz,triple sec,1/4 oz,simple syrup,,,,,cocktail glass
+white lady,gin,1 1/2 oz,gin,3/4 oz,triple sec,,,,,,,,,cocktail glass
+western rose,gin,1 oz,gin,1/2 oz,dry vermouth,1/2 oz,apricot-flavored brandy,1 oz,fresh lemon juice,,,,,cocktail glass
+may blosson fizz,cocktail classics,1 oz,grenadine,1/2 oz,juice of a lemon,2 oz,swedish punch,,,,,,,highball glass
+wembly cocktail,gin,1 1/2 oz,gin,3/4 oz,dry vermouth,1/2 oz,apple brandy,1/2 oz,apricot-flavored brandy,,,,,cocktail glass
+apple pie cocktail,cocktail classics,3/4 oz,old mr. boston rum,3/4 oz,sweet vermouth,1 oz,apple flavored brandy,1/2 oz,grenadine,1 oz,lemon juice,,,cocktail glass
+water lily,gin,3/4 oz,gin,3/4 oz,triple sec,3/4 oz,creme de violette,3/4 oz,fresh lemon juice,,orange twist,,,cocktail glass
+wallis blue cocktail,gin,1,"lime wedge, superfine sugar",1 oz,gin,1 oz,triple sec,1 oz,fresh lime juice,,,,,old-fashioned glass
+minnehaha cocktail,cocktail classics,1/4 oz,juice of orange,1/2 oz,dry vermouth,1/2 oz,sweet vermouth,1 oz,old mr. boston dry gin,,,,,cocktail glass
+wallick cocktail,gin,1 1/2 oz,gin,1 1/2 oz,dry vermouth,1 oz,triple sec,,,,,,,cocktail glass
+waikiki beachcomber,gin,3/4 oz,gin,3/4 oz,triple sec,1/2 oz,pineapple juice,,,,,,,cocktail glass
+vow of silence,gin,1 1/2 oz,gin,3/4 oz,grapefruit juice,1/2 oz,fresh lime juice,1/2 oz,yellow chartreuse,1/4 oz,amaro,1/4 oz,simple syrup,cocktail glass
